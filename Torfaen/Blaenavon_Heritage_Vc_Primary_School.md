@@ -1,0 +1,48 @@
+---
+layout: page
+title: Blaenavon Heritage Vc Primary School
+---
+# Navigation
+
+[[All countries/states/provinces]](../../..) > [[All Welsh local educational authority]](../..) > [[All schools in local educational authority]](..)
+
+# Blaenavon Heritage Vc Primary School (Torfaen)
+
+**School LEA number**: 678
+
+**Type**: Nursery, Infants & Juniors
+
+**Type (Welsh)**: English medium
+
+**School Number**: 6783028
+
+**Phone Number**: 01495 766500
+
+**Address**: Blaenavon Community Campus, Middle Coed Cae Road, Blaenavon, Torfaen, NP4 9AW
+
+**Students**: 458
+
+**Wikipedia URL**: TODO
+
+**Estyn (Schools Inspectorate) URL**: [https://www.estyn.gov.wales/provider/6783028](https://www.estyn.gov.wales/provider/6783028)
+
+**School Website**: [https://bhvcprimary.com/](https://bhvcprimary.com/)
+
+**School's overall airborne virus protection grade (0-5)**: 0
+
+**Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
+
+**School's policy on Ventilation**: TODO
+
+**School's Ventilation Work Completion**: TODO
+
+**School's Air-Purification**: TODO
+
+**School's CO2 monitoring to actively drive ventilation and filtration**: TODO
+
+**School's Wikidata URL**: TODO
+
+
+
+
+[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Torfaen/Blaenavon_Heritage_Vc_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)

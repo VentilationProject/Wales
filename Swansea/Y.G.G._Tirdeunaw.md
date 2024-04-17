@@ -1,0 +1,48 @@
+---
+layout: page
+title: Y.G.G. Tirdeunaw
+---
+# Navigation
+
+[[All countries/states/provinces]](../../..) > [[All Welsh local educational authority]](../..) > [[All schools in local educational authority]](..)
+
+# Y.G.G. Tirdeunaw (Swansea)
+
+**School LEA number**: 670
+
+**Type**: Nursery, Infants & Juniors
+
+**Type (Welsh)**: Welsh medium
+
+**School Number**: 6702231
+
+**Phone Number**: 01792 774612
+
+**Address**: Heol Ddu, Treboeth, Abertawe, SA5 7HW
+
+**Students**: 382
+
+**Wikipedia URL**: TODO
+
+**Estyn (Schools Inspectorate) URL**: [https://www.estyn.gov.wales/provider/6702231](https://www.estyn.gov.wales/provider/6702231)
+
+**School Website**: [https://www.ysgoltirdeunaw.co.uk/](https://www.ysgoltirdeunaw.co.uk/)
+
+**School's overall airborne virus protection grade (0-5)**: 0
+
+**Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
+
+**School's policy on Ventilation**: TODO
+
+**School's Ventilation Work Completion**: TODO
+
+**School's Air-Purification**: TODO
+
+**School's CO2 monitoring to actively drive ventilation and filtration**: TODO
+
+**School's Wikidata URL**: TODO
+
+
+
+
+[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Swansea/Y.G.G._Tirdeunaw.md). See also [rules for contribution](../../../contribution-rules/)

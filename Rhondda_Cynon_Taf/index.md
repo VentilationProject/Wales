@@ -1,0 +1,127 @@
+---
+layout: page
+title: Schools in Rhondda Cynon Taf
+---
+# Navigation
+
+[[All countries/states/provinces]](../..) > [[All Welsh educational authorities]](..)
+
+# Schools in Rhondda Cynon Taf
+
+{% include_relative grade.html %}
+
+**Schools:**
+
+- [Penderyn Primary](Penderyn_Primary): Nursery, Infants & Juniors
+- [Oaklands Primary School](Oaklands_Primary_School): Nursery, Infants & Juniors
+- [Alaw Primary School](Alaw_Primary_School): Nursery, Infants & Juniors
+- [Abernant County Primary](Abernant_County_Primary): Nursery, Infants & Juniors
+- [Cilfynydd Primary](Cilfynydd_Primary): Nursery, Infants & Juniors
+- [Brynnau Primary](Brynnau_Primary): Nursery, Infants & Juniors
+- [Coedpenmaen County Primary](Coedpenmaen_County_Primary): Nursery, Infants & Juniors
+- [Bodringallt Primary School.](Bodringallt_Primary_School.): Nursery, Infants & Juniors
+- [Blaengwawr Primary](Blaengwawr_Primary): Nursery, Infants & Juniors
+- [Coedylan Primary School](Coedylan_Primary_School): Nursery, Infants & Juniors
+- [Caegarw Primary School](Caegarw_Primary_School): Nursery, Infants & Juniors
+- [Cwmlai Primary](Cwmlai_Primary): Nursery, Infants & Juniors
+- [Dolau Primary](Dolau_Primary): Nursery, Infants & Juniors
+- [Capcoch Primary School](Capcoch_Primary_School): Nursery, Infants & Juniors
+- [Caradog Primary School](Caradog_Primary_School): Nursery, Infants & Juniors
+- [Ffynnon Taf Primary School](Ffynnon_Taf_Primary_School): Nursery, Infants & Juniors
+- [Hawthorn Primary School](Hawthorn_Primary_School): Nursery, Infants & Juniors
+- [Darran Park Primary](Darran_Park_Primary): Nursery, Infants & Juniors
+- [Llanilltud Faerdref Primary](Llanilltud_Faerdref_Primary): Nursery, Infants & Juniors
+- [Gelli Primary School](Gelli_Primary_School): Nursery, Infants & Juniors
+- [Llantrisant Primary School](Llantrisant_Primary_School): Nursery, Infants & Juniors
+- [Hafod Primary School](Hafod_Primary_School): Nursery, Infants & Juniors
+- [Maes-Y-Coed Primary School](Maes-Y-Coed_Primary_School): Nursery, Infants & Juniors
+- [Cwmdar County Primary School](Cwmdar_County_Primary_School): Nursery, Infants & Juniors
+- [Parclewis Primary School](Parclewis_Primary_School): Nursery, Infants & Juniors
+- [Llanharan Primary School](Llanharan_Primary_School): Nursery, Infants & Juniors
+- [Llwynypia Primary School](Llwynypia_Primary_School): Nursery, Infants & Juniors
+- [Darrenlas Primary School](Darrenlas_Primary_School): Nursery, Infants & Juniors
+- [Llanhari Primary](Llanhari_Primary): Nursery, Infants & Juniors
+- [Pontyclun Primary](Pontyclun_Primary): Nursery, Infants & Juniors
+- [Parc Primary School](Parc_Primary_School): Nursery, Infants & Juniors
+- [Rhigos Primary School](Rhigos_Primary_School): Nursery, Infants & Juniors
+- [Hirwaun Primary School](Hirwaun_Primary_School): Nursery, Infants & Juniors
+- [Llwydcoed Primary School](Llwydcoed_Primary_School): Nursery, Infants & Juniors
+- [Trallwng Infants School](Trallwng_Infants_School): Nursery & Infants
+- [Pengeulan Primary](Pengeulan_Primary): Nursery, Infants & Juniors
+- [Pontrhondda Primary School](Pontrhondda_Primary_School): Infants & Juniors
+- [Trehopcyn Primary](Trehopcyn_Primary): Nursery, Infants & Juniors
+- [Pontygwaith Primary School](Pontygwaith_Primary_School): Nursery, Infants & Juniors
+- [Trerobart Primary School](Trerobart_Primary_School): Nursery, Infants & Juniors
+- [Y.G.G.Pontsionnorton School](Y.G.G.Pontsionnorton_School): Nursery, Infants & Juniors
+- [Perthcelyn Community Primary School](Perthcelyn_Community_Primary_School): Nursery, Infants & Juniors
+- [Heol Y Celyn Bilingual Primary](Heol_Y_Celyn_Bilingual_Primary): Nursery, Infants & Juniors
+- [Ton Pentre Junior School](Ton_Pentre_Junior_School): Juniors
+- [Craig Yr Hesg Primary School](Craig_Yr_Hesg_Primary_School): Nursery, Infants & Juniors
+- [Llwyn-Crwn Primary School](Llwyn-Crwn_Primary_School): Nursery, Infants & Juniors
+- [Ton Pentre Infants](Ton_Pentre_Infants): Nursery & Infants
+- [Y.G.G.Aberdar](Y.G.G.Aberdar): Nursery, Infants & Juniors
+- [Trealaw County Primary School](Trealaw_County_Primary_School): Nursery, Infants & Juniors
+- [Glenboi Community Primary School](Glenboi_Community_Primary_School): Nursery, Infants & Juniors
+- [Cefn Primary School](Cefn_Primary_School): Nursery, Infants & Juniors
+- [Treorchy Primary](Treorchy_Primary): Nursery, Infants & Juniors
+- [Williamstown Primary](Williamstown_Primary): Nursery, Infants & Juniors
+- [Maesybryn Primary School](Maesybryn_Primary_School): Nursery, Infants & Juniors
+- [Tylorstown Primary School](Tylorstown_Primary_School): Nursery, Infants & Juniors
+- [Tref-y-Rhyg Primary School](Tref-y-Rhyg_Primary_School): Nursery, Infants & Juniors
+- [Ysgol Gynradd Gymraeg Tonyrefail](Ysgol_Gynradd_Gymraeg_Tonyrefail): Nursery, Infants & Juniors
+- [Penygawsi Primary School](Penygawsi_Primary_School): Nursery, Infants & Juniors
+- [Ysgol Gymraeg Llwyncelyn](Ysgol_Gymraeg_Llwyncelyn): Nursery, Infants & Juniors
+- [Ysgol Gynradd Gymraeg Ynyswen](Ysgol_Gynradd_Gymraeg_Ynyswen): Nursery, Infants & Juniors
+- [Tonysguboriau Primary School](Tonysguboriau_Primary_School): Nursery, Infants & Juniors
+- [Y. G. G. G. Llantrisant](Y._G._G._G._Llantrisant): Nursery, Infants & Juniors
+- [Ysgol Gymraeg Bodringallt](Ysgol_Gymraeg_Bodringallt): Nursery, Infants & Juniors
+- [Y.G.G. Castellau](Y.G.G._Castellau): Nursery, Infants & Juniors
+- [Y.G.G. Llyn-Y-Forwyn](Y.G.G._Llyn-Y-Forwyn): Nursery, Infants & Juniors
+- [Ysgol Gymraeg Evan James](Ysgol_Gymraeg_Evan_James): Nursery, Infants & Juniors
+- [Ysgol Gymraeg Abercynon](Ysgol_Gymraeg_Abercynon): Nursery, Infants & Juniors
+- [Ygg Bronllwyn School](Ygg_Bronllwyn_School): Nursery, Infants & Juniors
+- [Miskin Primary](Miskin_Primary): Nursery, Infants & Juniors
+- [Penpych Community Primary Scho](Penpych_Community_Primary_Scho): Nursery, Infants & Juniors
+- [Hendreforgan Primary School](Hendreforgan_Primary_School): Nursery, Infants & Juniors
+- [Penyrenglyn Primary](Penyrenglyn_Primary): Nursery, Infants & Juniors
+- [Penywaun Community School](Penywaun_Community_School): Nursery, Infants & Juniors
+- [Penrhys Community Primary](Penrhys_Community_Primary): Nursery, Infants & Juniors
+- [Gwaunmeisgyn Primary School](Gwaunmeisgyn_Primary_School): Nursery, Infants & Juniors
+- [Gwauncelyn Primary School](Gwauncelyn_Primary_School): Nursery, Infants & Juniors
+- [Penrhiwceibr Primary](Penrhiwceibr_Primary): Nursery, Infants & Juniors
+- [Ynyshir Community Primary](Ynyshir_Community_Primary): Nursery, Infants & Juniors
+- [Cwmclydach Community Primary School](Cwmclydach_Community_Primary_School): Nursery, Infants & Juniors
+- [Aberdare Park Primary](Aberdare_Park_Primary): Nursery, Infants & Juniors
+- [Maerdy Primary School](Maerdy_Primary_School): Nursery, Infants & Juniors
+- [Cwmbach Community Primary](Cwmbach_Community_Primary): Nursery, Infants & Juniors
+- [Ynysboeth Community Primary](Ynysboeth_Community_Primary): Nursery, Infants & Juniors
+- [Abercynon Primary](Abercynon_Primary): Nursery, Infants & Juniors
+- [Cymmer Primary School](Cymmer_Primary_School): Nursery, Infants & Juniors
+- [Cwmaman Primary](Cwmaman_Primary): Nursery, Infants & Juniors
+- [Our Lady's R.C.](Our_Lady's_R.C.): Nursery, Infants & Juniors
+- [St Michaels Primary](St_Michaels_Primary): Nursery, Infants & Juniors
+- [S.S.Gabriel And Raphael Prim](S.S.Gabriel_And_Raphael_Prim): Nursery, Infants & Juniors
+- [St. Margaret's Catholic Primary School](St._Margaret's_Catholic_Primary_School): Nursery, Infants & Juniors
+- [Aberdare Town C In W Primary](Aberdare_Town_C_In_W_Primary): Nursery, Infants & Juniors
+- [Cwmbach Church In Wales](Cwmbach_Church_In_Wales): Nursery, Infants & Juniors
+- [Bryncelynnog Comprehensive School](Bryncelynnog_Comprehensive_School): Secondary (ages 11-19)
+- [The Pontypridd High School](The_Pontypridd_High_School): Secondary (ages 11-19)
+- [Hawthorn High School](Hawthorn_High_School): Secondary (ages 11-19)
+- [Mountain Ash Comprehensive School](Mountain_Ash_Comprehensive_School): Secondary (ages 11-19)
+- [Treorchy Comprehensive School](Treorchy_Comprehensive_School): Secondary (ages 11-19)
+- [Ferndale Community School](Ferndale_Community_School): Secondary (ages 11-16)
+- [Y Pant Comprehensive](Y_Pant_Comprehensive): Secondary (ages 11-19)
+- [Ysgol Gyfun Cwm Rhondda](Ysgol_Gyfun_Cwm_Rhondda): Secondary (ages 11-19)
+- [Ysgol Gyfun Rhydywaun](Ysgol_Gyfun_Rhydywaun): Secondary (ages 11-19)
+- [Aberdare Community School](Aberdare_Community_School): Secondary (ages 11-19)
+- [Cardinal Newman R.C.](Cardinal_Newman_R.C.): Secondary (ages 11-16)
+- [St.John Baptist High School](St.John_Baptist_High_School): Secondary (ages 11-19)
+- [Ysgol Llanhari](Ysgol_Llanhari): Middle (ages 3-19)
+- [Porth Community School](Porth_Community_School): Middle (ages 3-16)
+- [Ysgol Nantgwyn](Ysgol_Nantgwyn): Middle (ages 3-16)
+- [Tonyrefail Community School](Tonyrefail_Community_School): Middle (ages 3-19)
+- [Ysgol Garth Olwg](Ysgol_Garth_Olwg): Middle (ages 3-19)
+- [Maesgwyn](Maesgwyn): Special (with post-16 provision)
+- [Park Lane Special School](Park_Lane_Special_School): Special (with post-16 provision)
+- [Ysgol Hen Felin](Ysgol_Hen_Felin): Special (with post-16 provision)
+- [Ysgol Ty Coch](Ysgol_Ty_Coch): Special (with post-16 provision)

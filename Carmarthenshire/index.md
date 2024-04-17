@@ -1,0 +1,122 @@
+---
+layout: page
+title: Schools in Carmarthenshire
+---
+# Navigation
+
+[[All countries/states/provinces]](../..) > [[All Welsh educational authorities]](..)
+
+# Schools in Carmarthenshire
+
+{% include_relative grade.html %}
+
+**Schools:**
+
+- [Ammanford Nursery](Ammanford_Nursery): Nursery
+- [Cefneithin C.P.](Cefneithin_C.P.): Nursery, Infants & Juniors
+- [Ysgol Gynradd Drefach](Ysgol_Gynradd_Drefach): Nursery, Infants & Juniors
+- [Llechyfedach C.P. School](Llechyfedach_C.P._School): Nursery, Infants & Juniors
+- [Ysgol Gynradd Y Tymbl](Ysgol_Gynradd_Y_Tymbl): Nursery, Infants & Juniors
+- [Ysgol Gynradd Gorslas](Ysgol_Gynradd_Gorslas): Nursery, Infants & Juniors
+- [Cross Hands C.P. School](Cross_Hands_C.P._School): Nursery, Infants & Juniors
+- [Llangain C.P. School](Llangain_C.P._School): Nursery, Infants & Juniors
+- [Ysgol Gymunedol Peniel](Ysgol_Gymunedol_Peniel): Nursery, Infants & Juniors
+- [Ysgol Gynradd Bancffosfelen](Ysgol_Gynradd_Bancffosfelen): Nursery, Infants & Juniors
+- [Ysgol Gwynfryn](Ysgol_Gwynfryn): Infants & Juniors
+- [Carway C.P. School](Carway_C.P._School): Nursery, Infants & Juniors
+- [Pontiets C.P. School](Pontiets_C.P._School): Infants & Juniors
+- [Ysgol Gynradd Ponthenri](Ysgol_Gynradd_Ponthenri): Infants & Juniors
+- [Bancyfelin C.P. School](Bancyfelin_C.P._School): Nursery, Infants & Juniors
+- [Meidrim C.P. School](Meidrim_C.P._School): Infants & Juniors
+- [Ysgol Gynradd Saron](Ysgol_Gynradd_Saron): Infants & Juniors
+- [Betws C.P. School](Betws_C.P._School): Nursery, Infants & Juniors
+- [Ysgol Gynradd Ty-croes](Ysgol_Gynradd_Ty-croes): Nursery, Infants & Juniors
+- [Ysgol Gynradd Parcyrhun](Ysgol_Gynradd_Parcyrhun): Nursery, Infants & Juniors
+- [Ysgol Gynradd Blaenau](Ysgol_Gynradd_Blaenau): Infants & Juniors
+- [Ysgol Gynradd Llanedi](Ysgol_Gynradd_Llanedi): Infants & Juniors
+- [Ysgol Gynradd Ffairfach](Ysgol_Gynradd_Ffairfach): Nursery, Infants & Juniors
+- [Talley C.P School](Talley_C.P_School): Nursery, Infants & Juniors
+- [Cwrt Henri Primary School](Cwrt_Henri_Primary_School): Nursery, Infants & Juniors
+- [Llangadog C.P. School](Llangadog_C.P._School): Nursery, Infants & Juniors
+- [Ysgol Rhys Prichard](Ysgol_Rhys_Prichard): Nursery, Infants & Juniors
+- [Ysgol Llys Hywel](Ysgol_Llys_Hywel): Infants & Juniors
+- [Ysgol Gynradd Brynsaron](Ysgol_Gynradd_Brynsaron): Infants & Juniors
+- [Llanpumsaint School](Llanpumsaint_School): Infants & Juniors
+- [Ysgol Mynydd Y Garreg](Ysgol_Mynydd_Y_Garreg): Infants & Juniors
+- [Johnstown Primary School](Johnstown_Primary_School): Nursery, Infants & Juniors
+- [Ysgol Y Dderwen](Ysgol_Y_Dderwen): Nursery, Infants & Juniors
+- [Llanmiloe C.P. School](Llanmiloe_C.P._School): Infants & Juniors
+- [Bryn C.P. School](Bryn_C.P._School): Nursery, Infants & Juniors
+- [Ysgol Y Bynea](Ysgol_Y_Bynea): Nursery, Infants & Juniors
+- [Dafen Primary School](Dafen_Primary_School): Nursery, Infants & Juniors
+- [Ysgol Gynradd Pum Heol](Ysgol_Gynradd_Pum_Heol): Infants & Juniors
+- [Hendy C.P. School](Hendy_C.P._School): Nursery, Infants & Juniors
+- [Ysgol Gymraeg Ffwrnes](Ysgol_Gymraeg_Ffwrnes): Infants & Juniors
+- [Old Road C.P. School](Old_Road_C.P._School): Nursery, Infants & Juniors
+- [Ysgol Llansteffan](Ysgol_Llansteffan): Nursery, Infants & Juniors
+- [Ysgol Gynradd Llannon](Ysgol_Gynradd_Llannon): Nursery, Infants & Juniors
+- [Ysgol Gymraeg Brynsierfel](Ysgol_Gymraeg_Brynsierfel): Nursery, Infants & Juniors
+- [Brynaman Primary School](Brynaman_Primary_School): Nursery, Infants & Juniors
+- [Myrddin C.P. School](Myrddin_C.P._School): Nursery, Infants & Juniors
+- [Llangunnor C.P. School](Llangunnor_C.P._School): Nursery, Infants & Juniors
+- [Trimsaran C.P. School](Trimsaran_C.P._School): Nursery, Infants & Juniors
+- [Swiss Valley C.P. School](Swiss_Valley_C.P._School): Nursery, Infants & Juniors
+- [Parc Y Tywyn School](Parc_Y_Tywyn_School): Nursery, Infants & Juniors
+- [Pembrey C.P. School](Pembrey_C.P._School): Nursery, Infants & Juniors
+- [Ysgol Gymraeg Rhydaman](Ysgol_Gymraeg_Rhydaman): Nursery, Infants & Juniors
+- [Ysgol Beca](Ysgol_Beca): Infants & Juniors
+- [Llandybie C.P. School](Llandybie_C.P._School): Nursery, Infants & Juniors
+- [Ysgol Gynradd Hafodwenog](Ysgol_Gynradd_Hafodwenog): Infants & Juniors
+- [Ysgol Gymraeg Teilo Sant](Ysgol_Gymraeg_Teilo_Sant): Nursery, Infants & Juniors
+- [Llanybydder C.P. School](Llanybydder_C.P._School): Nursery, Infants & Juniors
+- [Ysgol Gynradd Llandeilo Primary School](Ysgol_Gynradd_Llandeilo_Primary_School): Nursery, Infants & Juniors
+- [Cynwyl Elfed School](Cynwyl_Elfed_School): Infants & Juniors
+- [Halfway C.P. School](Halfway_C.P._School): Nursery, Infants & Juniors
+- [Pwll C.P. School](Pwll_C.P._School): Nursery, Infants & Juniors
+- [Penygaer Primary School](Penygaer_Primary_School): Nursery, Infants & Juniors
+- [Ysgol Y Castell](Ysgol_Y_Castell): Nursery, Infants & Juniors
+- [Penygroes C.P. School](Penygroes_C.P._School): Infants & Juniors
+- [Y.G. Nantgaredig](Y.G._Nantgaredig): Nursery, Infants & Juniors
+- [Ysgol Gymraeg Gwenllian](Ysgol_Gymraeg_Gwenllian): Nursery, Infants & Juniors
+- [Ysgol Gymraeg Dewi Sant](Ysgol_Gymraeg_Dewi_Sant): Nursery, Infants & Juniors
+- [Ysgol Gynradd Pontyberem](Ysgol_Gynradd_Pontyberem): Nursery, Infants & Juniors
+- [Bigyn C.P. School](Bigyn_C.P._School): Nursery, Infants & Juniors
+- [Stebonheath C.P. School](Stebonheath_C.P._School): Nursery, Infants & Juniors
+- [Ysgol Y Ddwylan](Ysgol_Y_Ddwylan): Infants & Juniors
+- [Richmond Park Primary School](Richmond_Park_Primary_School): Nursery, Infants & Juniors
+- [Ysgol Griffith Jones](Ysgol_Griffith_Jones): Nursery, Infants & Juniors
+- [Ysgol y Fro Llangyndeyrn](Ysgol_y_Fro_Llangyndeyrn): Infants & Juniors
+- [Ysgol Carreg Hirfaen](Ysgol_Carreg_Hirfaen): Nursery, Infants & Juniors
+- [Cae'r Felin Community School](Cae'r_Felin_Community_School): Nursery, Infants & Juniors
+- [Ysgol Y Bedol](Ysgol_Y_Bedol): Nursery, Infants & Juniors
+- [Ysgol Bro Brynach](Ysgol_Bro_Brynach): Nursery, Infants & Juniors
+- [Ysgol Bryn Teg](Ysgol_Bryn_Teg): Nursery, Infants & Juniors
+- [Ysgol Y Felin](Ysgol_Y_Felin): Infants & Juniors
+- [Ysgol Bro Banw](Ysgol_Bro_Banw): Infants & Juniors
+- [Maes Y Morfa Community Primary School](Maes_Y_Morfa_Community_Primary_School): Nursery, Infants & Juniors
+- [Burry Port Community Primary School](Burry_Port_Community_Primary_School): Nursery, Infants & Juniors
+- [Ysgol Pen Rhos](Ysgol_Pen_Rhos): Nursery, Infants & Juniors
+- [Ysgol Gymraeg Llangennech](Ysgol_Gymraeg_Llangennech): Nursery, Infants & Juniors
+- [Abergwili Voluntary Controlled Primary School](Abergwili_Voluntary_Controlled_Primary_School): Infants & Juniors
+- [Laugharne V.C.P. School](Laugharne_V.C.P._School): Infants & Juniors
+- [Ysgol Gynradd Wirfoddol Llanddarog](Ysgol_Gynradd_Wirfoddol_Llanddarog): Nursery, Infants & Juniors
+- [Ferryside V.C.P. School](Ferryside_V.C.P._School): Infants & Juniors
+- [Ysgol Gynradd Wirfoddol Llanllwni](Ysgol_Gynradd_Wirfoddol_Llanllwni): Infants & Juniors
+- [St Mary's Catholic Primary School (Llanelli)](St_Mary's_Catholic_Primary_School_(Llanelli)): Nursery, Infants & Juniors
+- [St Mary's R.C. Primary School (Carmarthen)](St_Mary's_R.C._Primary_School_(Carmarthen)): Nursery, Infants & Juniors
+- [Ysgol Wirfoddol Penboyr](Ysgol_Wirfoddol_Penboyr): Infants & Juniors
+- [Pentip V.A. C.I.W. Primary School](Pentip_V.A._C.I.W._Primary_School): Nursery, Infants & Juniors
+- [Model Church In Wales School](Model_Church_In_Wales_School): Nursery, Infants & Juniors
+- [Ysgol Dyffryn Aman](Ysgol_Dyffryn_Aman): Secondary (ages 11-19)
+- [Coedcae School](Coedcae_School): Secondary (ages 11-16)
+- [Ysgol Gyfun Y Strade](Ysgol_Gyfun_Y_Strade): Secondary (ages 11-19)
+- [Glan-y-Mor School](Glan-y-Mor_School): Secondary (ages 11-16)
+- [Bryngwyn School](Bryngwyn_School): Secondary (ages 11-16)
+- [Ysgol Gyfun Gymraeg Bro Myrddin](Ysgol_Gyfun_Gymraeg_Bro_Myrddin): Secondary (ages 11-19)
+- [Ysgol Gyfun Emlyn](Ysgol_Gyfun_Emlyn): Secondary (ages 11-19)
+- [Queen Elizabeth High School](Queen_Elizabeth_High_School): Secondary (ages 11-19)
+- [Ysgol Maes y Gwendraeth](Ysgol_Maes_y_Gwendraeth): Secondary (ages 11-19)
+- [Ysgol Bro Dinefwr](Ysgol_Bro_Dinefwr): Secondary (ages 11-19)
+- [Dyffryn Taf](Dyffryn_Taf): Secondary (ages 11-19)
+- [St John Lloyd Catholic Comprehensive School](St_John_Lloyd_Catholic_Comprehensive_School): Secondary (ages 11-16)
+- [Ysgol Heol Goffa ](Ysgol_Heol_Goffa_): Special (with post-16 provision)

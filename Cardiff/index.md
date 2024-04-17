@@ -1,0 +1,141 @@
+---
+layout: page
+title: Schools in Cardiff
+---
+# Navigation
+
+[[All countries/states/provinces]](../..) > [[All Welsh educational authorities]](..)
+
+# Schools in Cardiff
+
+{% include_relative grade.html %}
+
+**Schools:**
+
+- [Grangetown Nursery School](Grangetown_Nursery_School): Nursery
+- [Tremorfa Nursery](Tremorfa_Nursery): Nursery
+- [Ely And Caerau Children's Centre](Ely_And_Caerau_Children's_Centre): Nursery
+- [Millbank Primary School](Millbank_Primary_School): Nursery, Infants & Juniors
+- [Adamsdown Primary](Adamsdown_Primary): Nursery, Infants & Juniors
+- [Albany Primary School](Albany_Primary_School): Nursery, Infants & Juniors
+- [Allensbank Primary School](Allensbank_Primary_School): Nursery, Infants & Juniors
+- [Baden Powell Primary School](Baden_Powell_Primary_School): Nursery, Infants & Juniors
+- [Birchgrove Primary School](Birchgrove_Primary_School): Infants & Juniors
+- [Trelai Primary School](Trelai_Primary_School): Nursery, Infants & Juniors
+- [Fairwater Primary School](Fairwater_Primary_School): Infants & Juniors
+- [Gabalfa Primary](Gabalfa_Primary): Nursery, Infants & Juniors
+- [Kitchener Primary School](Kitchener_Primary_School): Nursery, Infants & Juniors
+- [Lansdowne Primary School](Lansdowne_Primary_School): Nursery, Infants & Juniors
+- [Moorland Primary](Moorland_Primary): Nursery, Infants & Juniors
+- [Radnor Primary School](Radnor_Primary_School): Infants & Juniors
+- [Rhydypenau Primary School](Rhydypenau_Primary_School): Nursery, Infants & Juniors
+- [Roath Park Primary School](Roath_Park_Primary_School): Nursery, Infants & Juniors
+- [Greenway Primary School](Greenway_Primary_School): Nursery, Infants & Juniors
+- [Stacey Primary School](Stacey_Primary_School): Nursery, Infants & Juniors
+- [Ton-yr-Ywen Primary School](Ton-yr-Ywen_Primary_School): Nursery, Infants & Juniors
+- [Peter Lea Primary School](Peter_Lea_Primary_School): Nursery, Infants & Juniors
+- [Bryn Hafod Primary School](Bryn_Hafod_Primary_School): Nursery, Infants & Juniors
+- [Pen-y-Bryn Primary School](Pen-y-Bryn_Primary_School): Nursery, Infants & Juniors
+- [Coed Glas C P School](Coed_Glas_C_P_School): Nursery, Infants & Juniors
+- [Lakeside Primary School](Lakeside_Primary_School): Nursery, Infants & Juniors
+- [Pentrebane Primary School](Pentrebane_Primary_School): Nursery, Infants & Juniors
+- [Mount Stuart Primary School](Mount_Stuart_Primary_School): Nursery, Infants & Juniors
+- [Llanishen Fach Primary School](Llanishen_Fach_Primary_School): Nursery, Infants & Juniors
+- [Rhiwbeina Primary School](Rhiwbeina_Primary_School): Nursery, Infants & Juniors
+- [Llanedeyrn Primary School](Llanedeyrn_Primary_School): Nursery, Infants & Juniors
+- [Springwood Primary School](Springwood_Primary_School): Nursery, Infants & Juniors
+- [Ninian Park Primary School](Ninian_Park_Primary_School): Nursery, Infants & Juniors
+- [Coryton Primary](Coryton_Primary): Nursery, Infants & Juniors
+- [Bryn Celyn Primary School](Bryn_Celyn_Primary_School): Nursery, Infants & Juniors
+- [Y G G Gwaelod Y Garth](Y_G_G_Gwaelod_Y_Garth): Nursery, Infants & Juniors
+- [Radyr Primary School](Radyr_Primary_School): Nursery, Infants & Juniors
+- [Tongwynlais Primary School](Tongwynlais_Primary_School): Nursery, Infants & Juniors
+- [Llysfaen Primary School](Llysfaen_Primary_School): Infants & Juniors
+- [Bryn Deri Primary](Bryn_Deri_Primary): Nursery, Infants & Juniors
+- [Oakfield Primary School](Oakfield_Primary_School): Nursery, Infants & Juniors
+- [Ysgol Gymraeg Melin Gruffydd](Ysgol_Gymraeg_Melin_Gruffydd): Nursery, Infants & Juniors
+- [Ysgol Y Wern](Ysgol_Y_Wern): Nursery, Infants & Juniors
+- [Ysgol Gymraeg Coed Y Gof](Ysgol_Gymraeg_Coed_Y_Gof): Infants & Juniors
+- [Ysgol Bro Eirwg](Ysgol_Bro_Eirwg): Nursery, Infants & Juniors
+- [Ysgol Treganna](Ysgol_Treganna): Infants & Juniors
+- [Willowbrook Primary School](Willowbrook_Primary_School): Nursery, Infants & Juniors
+- [Pentyrch Primary](Pentyrch_Primary): Infants & Juniors
+- [Thornhill Primary School](Thornhill_Primary_School): Nursery, Infants & Juniors
+- [Ysgol Pencae](Ysgol_Pencae): Infants & Juniors
+- [Meadowlane Primary School](Meadowlane_Primary_School): Nursery, Infants & Juniors
+- [Ysgol Mynydd Bychan](Ysgol_Mynydd_Bychan): Nursery, Infants & Juniors
+- [Creigiau Primary School](Creigiau_Primary_School): Nursery, Infants & Juniors
+- [Ysgol Gymraeg Pwll Coch](Ysgol_Gymraeg_Pwll_Coch): Nursery, Infants & Juniors
+- [Ysgol Y Berllan Deg](Ysgol_Y_Berllan_Deg): Nursery, Infants & Juniors
+- [Gladstone Primary School](Gladstone_Primary_School): Nursery, Infants & Juniors
+- [Glan Yr Afon Primary School](Glan_Yr_Afon_Primary_School): Nursery, Infants & Juniors
+- [Grangetown Primary School](Grangetown_Primary_School): Infants & Juniors
+- [Herbert Thompson Primary](Herbert_Thompson_Primary): Nursery, Infants & Juniors
+- [Ysgol Glan Morfa](Ysgol_Glan_Morfa): Nursery, Infants & Juniors
+- [Ysgol Pen Y Pil](Ysgol_Pen_Y_Pil): Infants & Juniors
+- [Ysgol Gymraeg Nant Caerau](Ysgol_Gymraeg_Nant_Caerau): Nursery, Infants & Juniors
+- [Rumney Primary](Rumney_Primary): Nursery, Infants & Juniors
+- [Windsor Clive Primary](Windsor_Clive_Primary): Nursery, Infants & Juniors
+- [Severn Primary](Severn_Primary): Nursery, Infants & Juniors
+- [Hawthorn Primary](Hawthorn_Primary): Nursery, Infants & Juniors
+- [Danescourt Primary](Danescourt_Primary): Nursery, Infants & Juniors
+- [Hywel Dda Primary School](Hywel_Dda_Primary_School): Nursery, Infants & Juniors
+- [Ysgol Gynradd Gymraeg Pen-Y-Groes](Ysgol_Gynradd_Gymraeg_Pen-Y-Groes): Nursery, Infants & Juniors
+- [Trowbridge Primary](Trowbridge_Primary): Nursery, Infants & Juniors
+- [Ysgol Glan Ceubal](Ysgol_Glan_Ceubal): Nursery, Infants & Juniors
+- [Marlborough Primary](Marlborough_Primary): Nursery, Infants & Juniors
+- [Pencaerau Primary](Pencaerau_Primary): Nursery, Infants & Juniors
+- [Glyncoed Primary](Glyncoed_Primary): Nursery, Infants & Juniors
+- [Whitchurch Primary](Whitchurch_Primary): Nursery, Infants & Juniors
+- [Pontprennau Primary School](Pontprennau_Primary_School): Nursery, Infants & Juniors
+- [Howardian Primary School](Howardian_Primary_School): Nursery, Infants & Juniors
+- [Ysgol Gynradd Gymraeg Hamadryad](Ysgol_Gynradd_Gymraeg_Hamadryad): Nursery, Infants & Juniors
+- [Ysgol Gynradd Groeswen Primary School](Ysgol_Gynradd_Groeswen_Primary_School): Primary
+- [St. Mellons Church In Wales Primary](St._Mellons_Church_In_Wales_Primary): Infants & Juniors
+- [St Alban's Rc Primary School](St_Alban's_Rc_Primary_School): Infants & Juniors
+- [St Cuthbert's Rc Primary](St_Cuthbert's_Rc_Primary): Infants & Juniors
+- [St. Joseph's RC Primary School](St._Joseph's_RC_Primary_School): Infants & Juniors
+- [St. Mary's R.C. Primary School](St._Mary's_R.C._Primary_School): Nursery, Infants & Juniors
+- [St Patrick's R C School](St_Patrick's_R_C_School): Infants & Juniors
+- [St. Peter's Primary School](St._Peter's_Primary_School): Nursery, Infants & Juniors
+- [St Cadoc's Catholic Primary](St_Cadoc's_Catholic_Primary): Nursery, Infants & Juniors
+- [St Monicas C W Primary School](St_Monicas_C_W_Primary_School): Infants & Juniors
+- [St.Paul's C W Primary School](St.Paul's_C_W_Primary_School): Infants & Juniors
+- [Tredegarville C W Primary](Tredegarville_C_W_Primary): Nursery, Infants & Juniors
+- [Llandaff City Primary School](Llandaff_City_Primary_School): Infants & Juniors
+- [Christ The King Primary School](Christ_The_King_Primary_School): Infants & Juniors
+- [St John Lloyd](St_John_Lloyd): Nursery, Infants & Juniors
+- [Holy Family R.C. Primary](Holy_Family_R.C._Primary): Infants & Juniors
+- [St Mary The Virgin C W Primary School](St_Mary_The_Virgin_C_W_Primary_School): Nursery, Infants & Juniors
+- [All Saints C W Primary](All_Saints_C_W_Primary): Infants & Juniors
+- [St Fagans Church In Wales](St_Fagans_Church_In_Wales): Nursery, Infants & Juniors
+- [St Bernadettes Primary School](St_Bernadettes_Primary_School): Nursery, Infants & Juniors
+- [St David's C W Primary School](St_David's_C_W_Primary_School): Nursery, Infants & Juniors
+- [Bishop Childs C W Primary](Bishop_Childs_C_W_Primary): Infants & Juniors
+- [St Philip Evans Primary School](St_Philip_Evans_Primary_School): Nursery, Infants & Juniors
+- [St. Francis R. C. Primary Sch.](St._Francis_R._C._Primary_Sch.): Nursery, Infants & Juniors
+- [Cardiff High School](Cardiff_High_School): Secondary (ages 11-19)
+- [Willows High School](Willows_High_School): Secondary (ages 11-16)
+- [Fitzalan High School](Fitzalan_High_School): Secondary (ages 11-19)
+- [Cantonian High School](Cantonian_High_School): Secondary (ages 11-19)
+- [Llanishen High School](Llanishen_High_School): Secondary (ages 11-19)
+- [Cathays High School](Cathays_High_School): Secondary (ages 11-19)
+- [Radyr Comprehensive School](Radyr_Comprehensive_School): Secondary (ages 11-19)
+- [Ysgol Gyfun Gymraeg Glantaf](Ysgol_Gyfun_Gymraeg_Glantaf): Secondary (ages 11-19)
+- [Ysgol Gyfun Gymraeg Plasmawr](Ysgol_Gyfun_Gymraeg_Plasmawr): Secondary (ages 11-19)
+- [Ysgol Gyfun Gymraeg Bro Edern](Ysgol_Gyfun_Gymraeg_Bro_Edern): Secondary (ages 11-19)
+- [Cardiff West Community High School](Cardiff_West_Community_High_School): Secondary (ages 11-19)
+- [Eastern High](Eastern_High): Secondary (ages 11-16)
+- [St. Illtyd's Catholic High School](St._Illtyd's_Catholic_High_School): Secondary (ages 11-16)
+- [Mary Immaculate High School](Mary_Immaculate_High_School): Secondary (ages 11-16)
+- [Bishop Of Llandaff Church In Wales High School](Bishop_Of_Llandaff_Church_In_Wales_High_School): Secondary (ages 11-19)
+- [St Teilo's C-In-W High School](St_Teilo's_C-In-W_High_School): Secondary (ages 11-19)
+- [Corpus Christi Catholic High School](Corpus_Christi_Catholic_High_School): Secondary (ages 11-16)
+- [Whitchurch High School](Whitchurch_High_School): Secondary (ages 11-19)
+- [Greenhill Special School](Greenhill_Special_School): Special (without post-16 provision)
+- [The Court School](The_Court_School): Special (without post-16 provision)
+- [Woodlands High School](Woodlands_High_School): Special (with post-16 provision)
+- [Riverbank School](Riverbank_School): Special (without post-16 provision)
+- [Ty-Gwyn Special School](Ty-Gwyn_Special_School): Special (with post-16 provision)
+- [The Hollies School](The_Hollies_School): Special (without post-16 provision)
+- [Meadowbank Special School](Meadowbank_Special_School): Special (without post-16 provision)

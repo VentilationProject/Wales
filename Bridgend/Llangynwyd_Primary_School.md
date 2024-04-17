@@ -1,0 +1,48 @@
+---
+layout: page
+title: Llangynwyd Primary School
+---
+# Navigation
+
+[[All countries/states/provinces]](../../..) > [[All Welsh local educational authority]](../..) > [[All schools in local educational authority]](..)
+
+# Llangynwyd Primary School (Bridgend)
+
+**School LEA number**: 672
+
+**Type**: Nursery, Infants & Juniors
+
+**Type (Welsh)**: English medium
+
+**School Number**: 6722149
+
+**Phone Number**: 01656 733166
+
+**Address**: Heol Cadrawd, Llangynwyd, Maesteg, Bridgend, CF34 9TE
+
+**Students**: 100
+
+**Wikipedia URL**: TODO
+
+**Estyn (Schools Inspectorate) URL**: [https://www.estyn.gov.wales/provider/6722149](https://www.estyn.gov.wales/provider/6722149)
+
+**School Website**: http://www.llangynwydprimary.co.uk
+
+**School's overall airborne virus protection grade (0-5)**: 0
+
+**Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
+
+**School's policy on Ventilation**: TODO
+
+**School's Ventilation Work Completion**: TODO
+
+**School's Air-Purification**: TODO
+
+**School's CO2 monitoring to actively drive ventilation and filtration**: TODO
+
+**School's Wikidata URL**: TODO
+
+
+
+
+[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Bridgend/Llangynwyd_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)

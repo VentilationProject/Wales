@@ -1,0 +1,48 @@
+---
+layout: page
+title: The Maelor School
+---
+# Navigation
+
+[[All countries/states/provinces]](../../..) > [[All Welsh local educational authority]](../..) > [[All schools in local educational authority]](..)
+
+# The Maelor School (Wrexham)
+
+**School LEA number**: 665
+
+**Type**: Secondary (ages 11-19)
+
+**Type (Welsh)**: English medium
+
+**School Number**: 6655401
+
+**Phone Number**: 01948 830291
+
+**Address**: Penley, Wrexham, LL13 0LU
+
+**Students**: 800
+
+**Wikipedia URL**: TODO
+
+**Estyn (Schools Inspectorate) URL**: [https://www.estyn.gov.wales/provider/6655401](https://www.estyn.gov.wales/provider/6655401)
+
+**School Website**: [https://www.maelorschool.org.uk/](https://www.maelorschool.org.uk/)
+
+**School's overall airborne virus protection grade (0-5)**: 0
+
+**Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
+
+**School's policy on Ventilation**: TODO
+
+**School's Ventilation Work Completion**: TODO
+
+**School's Air-Purification**: TODO
+
+**School's CO2 monitoring to actively drive ventilation and filtration**: TODO
+
+**School's Wikidata URL**: TODO
+
+
+
+
+[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Wrexham/The_Maelor_School.md). See also [rules for contribution](../../../contribution-rules/)

@@ -1,0 +1,48 @@
+---
+layout: page
+title: Ysgol Mynydd Isa
+---
+# Navigation
+
+[[All countries/states/provinces]](../../..) > [[All Welsh local educational authority]](../..) > [[All schools in local educational authority]](..)
+
+# Ysgol Mynydd Isa (Flintshire)
+
+**School LEA number**: 664
+
+**Type**: Nursery, Infants & Juniors
+
+**Type (Welsh)**: English medium
+
+**School Number**: 6642267
+
+**Phone Number**: 01352 752714
+
+**Address**: Chambers Lane, Bryn-Y-Baal, Mold, Flintshire, CH7 6SJ
+
+**Students**: 523
+
+**Wikipedia URL**: TODO
+
+**Estyn (Schools Inspectorate) URL**: [https://www.estyn.gov.wales/provider/6642267](https://www.estyn.gov.wales/provider/6642267)
+
+**School Website**: [https://www.ysgolmynyddisa.com/](https://www.ysgolmynyddisa.com/)
+
+**School's overall airborne virus protection grade (0-5)**: 0
+
+**Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
+
+**School's policy on Ventilation**: TODO
+
+**School's Ventilation Work Completion**: TODO
+
+**School's Air-Purification**: TODO
+
+**School's CO2 monitoring to actively drive ventilation and filtration**: TODO
+
+**School's Wikidata URL**: TODO
+
+
+
+
+[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Flintshire/Ysgol_Mynydd_Isa.md). See also [rules for contribution](../../../contribution-rules/)
