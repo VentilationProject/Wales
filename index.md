@@ -8,12 +8,14 @@ title: School in Wales and their ventilation status
 
 # Purpose of site
 
-Given **COVID-19 is Airborne** and the world is pushing to better ventilate schools for long term student and teacher health, we're tracking the progress for that in Wales. This is ahead of government effort to do the same. If government starts to track this work, this effort will continue because that effort might might be weak.We're guided by 33 profs and PhDs who are pushing for a policy change in a March 2024 article on **Science.org**: [Mandating indoor air quality for public buildings](https://drive.google.com/file/d/16l_IH47cQtC7fFuafvHca7ORNVGITxx8/view). Not only active ventilation (which should be mechanical heat recovery type in this age), but air filtration/purification too and CO2 monitoring to drive ventilation levels, as CO2 inside is a proxy indicator for COVID risk. As it happens the WHO also have a [2023 airborne risk assessment guide](https://iris.who.int/handle/10665/376346)
+To lower the transmission of COVID-19 another airborne diseases in schools. [..](See the longer rationale that's pertient to all countries on the home page). For Wales, though, we have 1,460 schools with unknown ventilation and air filtration. We don't know what their policy is today, but all enacted the statistically less relevant "ipe surfaces" and wash hands advice that the WHO incorrectly gave the world.
 
-Know that other diseases are airborne too: Measles (studies [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2810934/pdf/10982072.pdf) [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3880795/pdf/nihms532643.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/31257413/) [4](https://www.sciencedirect.com/science/article/pii/S0196655316305363)), Influenza, RSV and TB. The same ventilation and air filtration measures reduce transmission of those too.
+As well as the reading materials linked to on the home page for why we should ventilate schools that have a global perspective, we have some UK centric reading materials, too:
 
- When we say student and teacher health, we're wanting absences to go down too. If we lower transmission in schools, we reduce multi-generation transmission too, as kids bring infections home to parents. With lowered transmission, we also reduce long COVID, where the worst sufferers have disappeared from eduction and the workplace.
-
+* UK's National Education Union on [ventilation in schools](https://neu.org.uk/advice/health-and-safety/workplace-conditions/ventilation-schools-and-colleges).
+* UK GOV [How schools are managing ventilation to prevent the spread of airborne viruses like Covid-19](https://educationhub.blog.gov.uk/2022/06/30/how-schools-are-managing-ventilation-to-prevent-the-spread-of-airborne-viruses-like-covid-19/).
+* UK company Ventive with a good [Guide to school ventilation system design:
+Mitigating virus spread and supporting long-term occupant health and comfort](https://ventive.co.uk/resources/ventilation-guide-for-schools-best-practice-in-a-post-covid-world/).
 
 ## Leaderboard
 
