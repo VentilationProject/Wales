@@ -45,4 +45,4 @@ title: Ysgol Pen-y-Bryn
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Swansea/Ysgol_Pen-y-Bryn.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Swansea/Ysgol_Pen-y-Bryn.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: St Josephs R.C. Jnr. & Infts
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Newport/St_Josephs_R.C._Jnr._&_Infts.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Newport/St_Josephs_R.C._Jnr._&_Infts.md). See also [rules for contribution](../../../contribution-rules/)

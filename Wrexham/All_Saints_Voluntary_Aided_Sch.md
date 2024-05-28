@@ -45,4 +45,4 @@ title: All Saints Voluntary Aided Sch
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Wrexham/All_Saints_Voluntary_Aided_Sch.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Wrexham/All_Saints_Voluntary_Aided_Sch.md). See also [rules for contribution](../../../contribution-rules/)

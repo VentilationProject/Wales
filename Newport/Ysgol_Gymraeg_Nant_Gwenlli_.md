@@ -45,4 +45,4 @@ title: Ysgol Gymraeg Nant Gwenlli
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Newport/Ysgol_Gymraeg_Nant_Gwenlli_.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Newport/Ysgol_Gymraeg_Nant_Gwenlli_.md). See also [rules for contribution](../../../contribution-rules/)

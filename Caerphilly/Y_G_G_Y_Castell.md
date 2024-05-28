@@ -45,4 +45,4 @@ title: Y G G Y Castell
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Caerphilly/Y_G_G_Y_Castell.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Caerphilly/Y_G_G_Y_Castell.md). See also [rules for contribution](../../../contribution-rules/)

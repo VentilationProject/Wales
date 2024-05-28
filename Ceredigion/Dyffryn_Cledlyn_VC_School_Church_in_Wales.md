@@ -45,4 +45,4 @@ title: Dyffryn Cledlyn VC School Church in Wales
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Ceredigion/Dyffryn_Cledlyn_VC_School_Church_in_Wales.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Ceredigion/Dyffryn_Cledlyn_VC_School_Church_in_Wales.md). See also [rules for contribution](../../../contribution-rules/)

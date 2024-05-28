@@ -45,4 +45,4 @@ title: Ysgol Gymraeg Brohelyg
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Blaenau_Gwent/Ysgol_Gymraeg_Brohelyg.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Blaenau_Gwent/Ysgol_Gymraeg_Brohelyg.md). See also [rules for contribution](../../../contribution-rules/)

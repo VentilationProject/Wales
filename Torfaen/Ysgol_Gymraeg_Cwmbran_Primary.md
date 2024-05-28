@@ -45,4 +45,4 @@ title: Ysgol Gymraeg Cwmbran Primary
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Torfaen/Ysgol_Gymraeg_Cwmbran_Primary.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Torfaen/Ysgol_Gymraeg_Cwmbran_Primary.md). See also [rules for contribution](../../../contribution-rules/)

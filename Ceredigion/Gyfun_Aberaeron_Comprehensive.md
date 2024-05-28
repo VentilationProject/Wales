@@ -45,4 +45,4 @@ title: Gyfun Aberaeron Comprehensive
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Ceredigion/Gyfun_Aberaeron_Comprehensive.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Ceredigion/Gyfun_Aberaeron_Comprehensive.md). See also [rules for contribution](../../../contribution-rules/)

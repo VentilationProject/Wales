@@ -45,4 +45,4 @@ title: Tenby Church in Wales VC Primary School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Pembrokeshire/Tenby_Church_in_Wales_VC_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Pembrokeshire/Tenby_Church_in_Wales_VC_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: Broad Haven Cp School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Pembrokeshire/Broad_Haven_Cp_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Pembrokeshire/Broad_Haven_Cp_School.md). See also [rules for contribution](../../../contribution-rules/)

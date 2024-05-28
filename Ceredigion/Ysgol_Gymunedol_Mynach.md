@@ -45,4 +45,4 @@ title: Ysgol Gymunedol Mynach
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Ceredigion/Ysgol_Gymunedol_Mynach.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Ceredigion/Ysgol_Gymunedol_Mynach.md). See also [rules for contribution](../../../contribution-rules/)

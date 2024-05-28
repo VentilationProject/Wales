@@ -45,4 +45,4 @@ title: Coleg Cymunedol Y Dderwen
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Bridgend/Coleg_Cymunedol_Y_Dderwen.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Bridgend/Coleg_Cymunedol_Y_Dderwen.md). See also [rules for contribution](../../../contribution-rules/)

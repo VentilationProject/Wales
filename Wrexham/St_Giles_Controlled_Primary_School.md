@@ -45,4 +45,4 @@ title: St Giles Controlled Primary School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Wrexham/St_Giles_Controlled_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Wrexham/St_Giles_Controlled_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)

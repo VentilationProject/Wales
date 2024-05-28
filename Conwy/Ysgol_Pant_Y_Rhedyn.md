@@ -45,4 +45,4 @@ title: Ysgol Pant Y Rhedyn
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Conwy/Ysgol_Pant_Y_Rhedyn.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Conwy/Ysgol_Pant_Y_Rhedyn.md). See also [rules for contribution](../../../contribution-rules/)

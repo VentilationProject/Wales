@@ -45,4 +45,4 @@ title: St. Davids Cwmbran R.C. School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Torfaen/St._Davids_Cwmbran_R.C._School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Torfaen/St._Davids_Cwmbran_R.C._School.md). See also [rules for contribution](../../../contribution-rules/)

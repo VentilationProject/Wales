@@ -45,4 +45,4 @@ title: Ysgol Gymraeg Dyffryn y Glowyr
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Powys/Ysgol_Gymraeg_Dyffryn_y_Glowyr.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Powys/Ysgol_Gymraeg_Dyffryn_y_Glowyr.md). See also [rules for contribution](../../../contribution-rules/)

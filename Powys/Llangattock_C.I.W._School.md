@@ -45,4 +45,4 @@ title: Llangattock C.I.W. School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Powys/Llangattock_C.I.W._School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Powys/Llangattock_C.I.W._School.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: St Joseph's RC School and 6th Form Centre
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Neath_Port_Talbot/St_Joseph's_RC_School_and_6th_Form_Centre.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Neath_Port_Talbot/St_Joseph's_RC_School_and_6th_Form_Centre.md). See also [rules for contribution](../../../contribution-rules/)

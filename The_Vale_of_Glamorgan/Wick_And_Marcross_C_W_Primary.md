@@ -45,4 +45,4 @@ title: Wick And Marcross C/W Primary
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./The_Vale_of_Glamorgan/Wick_And_Marcross_C_W_Primary.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./The_Vale_of_Glamorgan/Wick_And_Marcross_C_W_Primary.md). See also [rules for contribution](../../../contribution-rules/)

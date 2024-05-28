@@ -45,4 +45,4 @@ title: Ysgol Pen Y Pil
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Cardiff/Ysgol_Pen_Y_Pil.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Cardiff/Ysgol_Pen_Y_Pil.md). See also [rules for contribution](../../../contribution-rules/)

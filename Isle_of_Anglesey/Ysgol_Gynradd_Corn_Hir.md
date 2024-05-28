@@ -45,4 +45,4 @@ title: Ysgol Gynradd Corn Hir
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Isle_of_Anglesey/Ysgol_Gynradd_Corn_Hir.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Isle_of_Anglesey/Ysgol_Gynradd_Corn_Hir.md). See also [rules for contribution](../../../contribution-rules/)

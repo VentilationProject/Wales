@@ -45,4 +45,4 @@ title: Ysgol Gymraeg y Trallwng
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Powys/Ysgol_Gymraeg_y_Trallwng.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Powys/Ysgol_Gymraeg_y_Trallwng.md). See also [rules for contribution](../../../contribution-rules/)

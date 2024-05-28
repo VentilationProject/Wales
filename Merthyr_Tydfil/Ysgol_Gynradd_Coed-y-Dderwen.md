@@ -45,4 +45,4 @@ title: Ysgol Gynradd Coed-y-Dderwen
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Merthyr_Tydfil/Ysgol_Gynradd_Coed-y-Dderwen.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Merthyr_Tydfil/Ysgol_Gynradd_Coed-y-Dderwen.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: Hawarden Village Va
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Flintshire/Hawarden_Village_Va.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Flintshire/Hawarden_Village_Va.md). See also [rules for contribution](../../../contribution-rules/)

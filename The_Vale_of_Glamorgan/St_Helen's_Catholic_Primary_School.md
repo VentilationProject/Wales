@@ -45,4 +45,4 @@ title: St Helen's Catholic Primary School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./The_Vale_of_Glamorgan/St_Helen's_Catholic_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./The_Vale_of_Glamorgan/St_Helen's_Catholic_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)

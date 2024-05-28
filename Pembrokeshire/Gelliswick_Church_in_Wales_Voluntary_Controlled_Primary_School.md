@@ -45,4 +45,4 @@ title: Gelliswick Church in Wales Voluntary Controlled Primary School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Pembrokeshire/Gelliswick_Church_in_Wales_Voluntary_Controlled_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Pembrokeshire/Gelliswick_Church_in_Wales_Voluntary_Controlled_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)

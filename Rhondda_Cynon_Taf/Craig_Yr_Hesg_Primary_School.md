@@ -45,4 +45,4 @@ title: Craig Yr Hesg Primary School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Rhondda_Cynon_Taf/Craig_Yr_Hesg_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Rhondda_Cynon_Taf/Craig_Yr_Hesg_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)

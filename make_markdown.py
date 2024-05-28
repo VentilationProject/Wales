@@ -59,7 +59,7 @@ def generate_markdown_by_index(row):
             file.write(url_to_markdown_link(schools_wikidata.get(row[2])) + "\n\n")
         else:
             file.write(f"TODO\n\n")
-        file.write(f"\n\n\n[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/{file_path}).")
+        file.write(f"\n\n\n[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/{file_path}).")
         file.write(f" See also [rules for contribution](../../../contribution-rules/)")
 
 

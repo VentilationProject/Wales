@@ -45,4 +45,4 @@ title: Ysgol Hafan y Mor
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Pembrokeshire/Ysgol_Hafan_y_Mor.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Pembrokeshire/Ysgol_Hafan_y_Mor.md). See also [rules for contribution](../../../contribution-rules/)

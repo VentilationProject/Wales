@@ -45,4 +45,4 @@ title: Ysgol Y Ferch O'r Sger
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Bridgend/Ysgol_Y_Ferch_O'r_Sger.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Bridgend/Ysgol_Y_Ferch_O'r_Sger.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: Ysgol Gymuned Y Ffridd
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Isle_of_Anglesey/Ysgol_Gymuned_Y_Ffridd.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Isle_of_Anglesey/Ysgol_Gymuned_Y_Ffridd.md). See also [rules for contribution](../../../contribution-rules/)

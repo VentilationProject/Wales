@@ -45,4 +45,4 @@ title: Venerable Edward Morgan Rc
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Flintshire/Venerable_Edward_Morgan_Rc.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Flintshire/Venerable_Edward_Morgan_Rc.md). See also [rules for contribution](../../../contribution-rules/)

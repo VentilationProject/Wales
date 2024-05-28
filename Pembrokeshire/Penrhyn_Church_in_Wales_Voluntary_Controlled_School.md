@@ -45,4 +45,4 @@ title: Penrhyn Church in Wales Voluntary Controlled School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Pembrokeshire/Penrhyn_Church_in_Wales_Voluntary_Controlled_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Pembrokeshire/Penrhyn_Church_in_Wales_Voluntary_Controlled_School.md). See also [rules for contribution](../../../contribution-rules/)

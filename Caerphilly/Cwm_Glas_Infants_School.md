@@ -45,4 +45,4 @@ title: Cwm Glas Infants School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Caerphilly/Cwm_Glas_Infants_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Caerphilly/Cwm_Glas_Infants_School.md). See also [rules for contribution](../../../contribution-rules/)

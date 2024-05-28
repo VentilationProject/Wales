@@ -45,4 +45,4 @@ title: St Mary`s R.C. (A) School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Powys/St_Mary`s_R.C._(A)_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Powys/St_Mary`s_R.C._(A)_School.md). See also [rules for contribution](../../../contribution-rules/)

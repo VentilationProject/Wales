@@ -45,4 +45,4 @@ title: St Mary's Rc Primary
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Wrexham/St_Mary's_Rc_Primary.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Wrexham/St_Mary's_Rc_Primary.md). See also [rules for contribution](../../../contribution-rules/)

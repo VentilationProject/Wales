@@ -45,4 +45,4 @@ title: King Henry viii 3-19 School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Monmouthshire/King_Henry_viii_3-19_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Monmouthshire/King_Henry_viii_3-19_School.md). See also [rules for contribution](../../../contribution-rules/)

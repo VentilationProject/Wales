@@ -45,4 +45,4 @@ title: Ysgol Y Llan Va Primary School Whitford
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Flintshire/Ysgol_Y_Llan_Va_Primary_School_Whitford.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Flintshire/Ysgol_Y_Llan_Va_Primary_School_Whitford.md). See also [rules for contribution](../../../contribution-rules/)

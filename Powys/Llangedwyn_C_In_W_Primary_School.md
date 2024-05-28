@@ -45,4 +45,4 @@ title: Llangedwyn C In W Primary School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Powys/Llangedwyn_C_In_W_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Powys/Llangedwyn_C_In_W_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: Cae'r Felin Community School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Carmarthenshire/Cae'r_Felin_Community_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Carmarthenshire/Cae'r_Felin_Community_School.md). See also [rules for contribution](../../../contribution-rules/)

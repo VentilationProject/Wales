@@ -45,4 +45,4 @@ title: Ysgol Gymraeg Gwaun Y Nant
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./The_Vale_of_Glamorgan/Ysgol_Gymraeg_Gwaun_Y_Nant.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./The_Vale_of_Glamorgan/Ysgol_Gymraeg_Gwaun_Y_Nant.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: All Saints C/W Primary
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Cardiff/All_Saints_C_W_Primary.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Cardiff/All_Saints_C_W_Primary.md). See also [rules for contribution](../../../contribution-rules/)

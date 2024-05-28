@@ -45,4 +45,4 @@ title: Ysgol Betws Gwerful Goch
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Denbighshire/Ysgol_Betws_Gwerful_Goch.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Denbighshire/Ysgol_Betws_Gwerful_Goch.md). See also [rules for contribution](../../../contribution-rules/)

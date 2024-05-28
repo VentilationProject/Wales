@@ -45,4 +45,4 @@ title: Ysgol Caer Drewyn
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Denbighshire/Ysgol_Caer_Drewyn.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Denbighshire/Ysgol_Caer_Drewyn.md). See also [rules for contribution](../../../contribution-rules/)

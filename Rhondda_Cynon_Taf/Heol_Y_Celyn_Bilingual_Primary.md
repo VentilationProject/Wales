@@ -45,4 +45,4 @@ title: Heol Y Celyn Bilingual Primary
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Rhondda_Cynon_Taf/Heol_Y_Celyn_Bilingual_Primary.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Rhondda_Cynon_Taf/Heol_Y_Celyn_Bilingual_Primary.md). See also [rules for contribution](../../../contribution-rules/)

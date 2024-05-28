@@ -45,4 +45,4 @@ title: St Patricks R.C. Primary
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Newport/St_Patricks_R.C._Primary.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Newport/St_Patricks_R.C._Primary.md). See also [rules for contribution](../../../contribution-rules/)

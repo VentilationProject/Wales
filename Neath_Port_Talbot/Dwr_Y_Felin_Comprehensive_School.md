@@ -45,4 +45,4 @@ title: Dwr Y Felin Comprehensive School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Neath_Port_Talbot/Dwr_Y_Felin_Comprehensive_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Neath_Port_Talbot/Dwr_Y_Felin_Comprehensive_School.md). See also [rules for contribution](../../../contribution-rules/)

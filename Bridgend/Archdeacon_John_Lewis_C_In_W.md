@@ -45,4 +45,4 @@ title: Archdeacon John Lewis C In W
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Bridgend/Archdeacon_John_Lewis_C_In_W.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Bridgend/Archdeacon_John_Lewis_C_In_W.md). See also [rules for contribution](../../../contribution-rules/)

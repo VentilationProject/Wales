@@ -45,4 +45,4 @@ title: Ysgol Gyfun Cwm Rhondda
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Rhondda_Cynon_Taf/Ysgol_Gyfun_Cwm_Rhondda.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Rhondda_Cynon_Taf/Ysgol_Gyfun_Cwm_Rhondda.md). See also [rules for contribution](../../../contribution-rules/)

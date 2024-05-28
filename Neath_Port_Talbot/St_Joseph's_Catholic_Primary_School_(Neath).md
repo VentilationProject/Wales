@@ -45,4 +45,4 @@ title: St Joseph's Catholic Primary School (Neath)
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Neath_Port_Talbot/St_Joseph's_Catholic_Primary_School_(Neath).md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Neath_Port_Talbot/St_Joseph's_Catholic_Primary_School_(Neath).md). See also [rules for contribution](../../../contribution-rules/)

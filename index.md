@@ -8,7 +8,7 @@ title: School in Wales and their ventilation status
 
 # Purpose of site
 
-To lower the transmission of COVID-19 another airborne diseases in schools. [..](See the longer rationale that's pertient to all countries on the home page). For Wales, though, we have 1,460 schools with unknown ventilation and air filtration. We don't know what their policy is today, but all enacted the statistically less relevant "ipe surfaces" and wash hands advice that the WHO incorrectly gave the world.
+To lower the transmission of COVID-19 another airborne diseases in schools. [..](See the longer rationale that's pertient to all countries on the home page). For Wales, though, we have 1,460 schools with unknown ventilation and air filtration. We don't know what their policy is today, but all enacted the statistically less relevant "wipe surfaces" and wash hands advice that the WHO incorrectly gave the world at the start of the pandemic.
 
 As well as the reading materials linked to on the home page for why we should ventilate schools that have a global perspective, we have some UK centric reading materials, too:
 
@@ -57,4 +57,4 @@ Mitigating virus spread and supporting long-term occupant health and comfort](ht
 
 This site is edited by volunteers who're interested in accelerating the work to complete the adequate ventilation of Welsh schools. This effort was not commissioned by education authorities or government.
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/index.md). See also [rules for contribution](./contribution_rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/index.md). See also [rules for contribution](./contribution_rules/)

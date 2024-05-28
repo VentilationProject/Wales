@@ -4,7 +4,7 @@ See [here](./contribution_rules.md)
 
 # Deployed site
 
-See [here](https://VentilationProject.github.io/Wales) - final domain choice still TODO.
+See [here](https://ventilate-schools.github.io/Wales) - final domain choice still TODO.
 
 # List of work still to do
 

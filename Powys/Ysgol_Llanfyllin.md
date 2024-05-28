@@ -45,4 +45,4 @@ title: Ysgol Llanfyllin
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Powys/Ysgol_Llanfyllin.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Powys/Ysgol_Llanfyllin.md). See also [rules for contribution](../../../contribution-rules/)

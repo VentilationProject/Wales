@@ -45,4 +45,4 @@ title: Ysgol Gymraeg Rhyd-Y-Grug
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Merthyr_Tydfil/Ysgol_Gymraeg_Rhyd-Y-Grug.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Merthyr_Tydfil/Ysgol_Gymraeg_Rhyd-Y-Grug.md). See also [rules for contribution](../../../contribution-rules/)

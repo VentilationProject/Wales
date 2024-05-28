@@ -45,4 +45,4 @@ title: Ysgol Bro Alun
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Wrexham/Ysgol_Bro_Alun.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Wrexham/Ysgol_Bro_Alun.md). See also [rules for contribution](../../../contribution-rules/)

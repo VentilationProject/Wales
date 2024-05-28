@@ -45,4 +45,4 @@ title: Ysgol Gwaun Gyfni
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Gwynedd/Ysgol_Gwaun_Gyfni.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Gwynedd/Ysgol_Gwaun_Gyfni.md). See also [rules for contribution](../../../contribution-rules/)

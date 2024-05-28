@@ -45,4 +45,4 @@ title: Ysgol Bro Sion Cwilt
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Ceredigion/Ysgol_Bro_Sion_Cwilt.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Ceredigion/Ysgol_Bro_Sion_Cwilt.md). See also [rules for contribution](../../../contribution-rules/)

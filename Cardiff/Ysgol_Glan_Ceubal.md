@@ -45,4 +45,4 @@ title: Ysgol Glan Ceubal
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Cardiff/Ysgol_Glan_Ceubal.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Cardiff/Ysgol_Glan_Ceubal.md). See also [rules for contribution](../../../contribution-rules/)

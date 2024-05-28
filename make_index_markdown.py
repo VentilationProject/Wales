@@ -74,7 +74,7 @@ def create_area_and_root_index():
     root_index_content += ("\n\n# Site ownership\n\nThis site is edited by volunteers who're "
                            "interested in accelerating the work to complete the adequate ventilation of Welsh schools. "
                            "This effort was not commissioned by education authorities or government.\n\n"
-                           "[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/index.md). See also [rules for contribution](./contribution_rules/)")
+                           "[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/index.md). See also [rules for contribution](./contribution_rules/)")
 
     # Write the root index file
     root_index_path = os.path.join(output_dir, "index.md")

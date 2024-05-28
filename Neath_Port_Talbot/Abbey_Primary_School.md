@@ -45,4 +45,4 @@ title: Abbey Primary School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Neath_Port_Talbot/Abbey_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Neath_Port_Talbot/Abbey_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)

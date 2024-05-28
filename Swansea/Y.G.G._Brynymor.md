@@ -45,4 +45,4 @@ title: Y.G.G. Brynymor
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Swansea/Y.G.G._Brynymor.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Swansea/Y.G.G._Brynymor.md). See also [rules for contribution](../../../contribution-rules/)

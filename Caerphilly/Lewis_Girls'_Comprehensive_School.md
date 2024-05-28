@@ -45,4 +45,4 @@ title: Lewis Girls' Comprehensive School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Caerphilly/Lewis_Girls'_Comprehensive_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Caerphilly/Lewis_Girls'_Comprehensive_School.md). See also [rules for contribution](../../../contribution-rules/)

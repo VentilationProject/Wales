@@ -45,4 +45,4 @@ title: Ysgol Gymraeg Y Fenni
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Monmouthshire/Ysgol_Gymraeg_Y_Fenni.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Monmouthshire/Ysgol_Gymraeg_Y_Fenni.md). See also [rules for contribution](../../../contribution-rules/)

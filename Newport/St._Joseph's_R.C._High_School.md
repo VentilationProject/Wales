@@ -45,4 +45,4 @@ title: St. Joseph's R.C. High School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Newport/St._Joseph's_R.C._High_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Newport/St._Joseph's_R.C._High_School.md). See also [rules for contribution](../../../contribution-rules/)

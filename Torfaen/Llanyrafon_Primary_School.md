@@ -45,4 +45,4 @@ title: Llanyrafon Primary School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Torfaen/Llanyrafon_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Torfaen/Llanyrafon_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)

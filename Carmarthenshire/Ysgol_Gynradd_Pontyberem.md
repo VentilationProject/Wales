@@ -45,4 +45,4 @@ title: Ysgol Gynradd Pontyberem
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Carmarthenshire/Ysgol_Gynradd_Pontyberem.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Carmarthenshire/Ysgol_Gynradd_Pontyberem.md). See also [rules for contribution](../../../contribution-rules/)

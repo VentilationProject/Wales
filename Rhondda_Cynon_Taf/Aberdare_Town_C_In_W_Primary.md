@@ -45,4 +45,4 @@ title: Aberdare Town C In W Primary
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Rhondda_Cynon_Taf/Aberdare_Town_C_In_W_Primary.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Rhondda_Cynon_Taf/Aberdare_Town_C_In_W_Primary.md). See also [rules for contribution](../../../contribution-rules/)

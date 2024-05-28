@@ -45,4 +45,4 @@ title: Ysgol Gynradd Gymraeg Pen-Y-Groes
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Cardiff/Ysgol_Gynradd_Gymraeg_Pen-Y-Groes.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Cardiff/Ysgol_Gynradd_Gymraeg_Pen-Y-Groes.md). See also [rules for contribution](../../../contribution-rules/)

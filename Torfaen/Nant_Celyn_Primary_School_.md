@@ -45,4 +45,4 @@ title: Nant Celyn Primary School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Torfaen/Nant_Celyn_Primary_School_.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Torfaen/Nant_Celyn_Primary_School_.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: Ysgol Cynddelw
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Wrexham/Ysgol_Cynddelw.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Wrexham/Ysgol_Cynddelw.md). See also [rules for contribution](../../../contribution-rules/)

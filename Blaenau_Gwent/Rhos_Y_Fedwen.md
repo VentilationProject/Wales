@@ -45,4 +45,4 @@ title: Rhos Y Fedwen
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Blaenau_Gwent/Rhos_Y_Fedwen.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Blaenau_Gwent/Rhos_Y_Fedwen.md). See also [rules for contribution](../../../contribution-rules/)

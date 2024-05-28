@@ -45,4 +45,4 @@ title: Swiss Valley C.P. School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Carmarthenshire/Swiss_Valley_C.P._School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Carmarthenshire/Swiss_Valley_C.P._School.md). See also [rules for contribution](../../../contribution-rules/)

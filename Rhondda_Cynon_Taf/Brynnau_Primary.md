@@ -45,4 +45,4 @@ title: Brynnau Primary
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Rhondda_Cynon_Taf/Brynnau_Primary.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Rhondda_Cynon_Taf/Brynnau_Primary.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: Ysgol Twm o'r Nant
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Denbighshire/Ysgol_Twm_o'r_Nant.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Denbighshire/Ysgol_Twm_o'r_Nant.md). See also [rules for contribution](../../../contribution-rules/)

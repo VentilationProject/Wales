@@ -45,4 +45,4 @@ title: Ysgol Dolbadarn
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Gwynedd/Ysgol_Dolbadarn.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Gwynedd/Ysgol_Dolbadarn.md). See also [rules for contribution](../../../contribution-rules/)

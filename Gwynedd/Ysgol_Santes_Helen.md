@@ -45,4 +45,4 @@ title: Ysgol Santes Helen
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Gwynedd/Ysgol_Santes_Helen.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Gwynedd/Ysgol_Santes_Helen.md). See also [rules for contribution](../../../contribution-rules/)

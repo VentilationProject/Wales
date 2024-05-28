@@ -45,4 +45,4 @@ title: Barker's Lane Cp
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Wrexham/Barker's_Lane_Cp.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Wrexham/Barker's_Lane_Cp.md). See also [rules for contribution](../../../contribution-rules/)

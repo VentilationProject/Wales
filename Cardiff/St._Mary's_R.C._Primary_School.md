@@ -45,4 +45,4 @@ title: St. Mary's R.C. Primary School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Cardiff/St._Mary's_R.C._Primary_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Cardiff/St._Mary's_R.C._Primary_School.md). See also [rules for contribution](../../../contribution-rules/)

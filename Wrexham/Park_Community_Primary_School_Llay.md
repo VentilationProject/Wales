@@ -45,4 +45,4 @@ title: Park Community Primary School Llay
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Wrexham/Park_Community_Primary_School_Llay.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Wrexham/Park_Community_Primary_School_Llay.md). See also [rules for contribution](../../../contribution-rules/)

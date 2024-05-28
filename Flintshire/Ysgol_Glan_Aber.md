@@ -45,4 +45,4 @@ title: Ysgol Glan Aber
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Flintshire/Ysgol_Glan_Aber.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Flintshire/Ysgol_Glan_Aber.md). See also [rules for contribution](../../../contribution-rules/)

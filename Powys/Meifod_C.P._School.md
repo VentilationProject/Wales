@@ -45,4 +45,4 @@ title: Meifod C.P. School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Powys/Meifod_C.P._School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Powys/Meifod_C.P._School.md). See also [rules for contribution](../../../contribution-rules/)

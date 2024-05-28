@@ -45,4 +45,4 @@ title: Pil Primary
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Bridgend/Pil_Primary.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Bridgend/Pil_Primary.md). See also [rules for contribution](../../../contribution-rules/)

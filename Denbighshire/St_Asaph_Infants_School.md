@@ -45,4 +45,4 @@ title: St Asaph Infants School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Denbighshire/St_Asaph_Infants_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Denbighshire/St_Asaph_Infants_School.md). See also [rules for contribution](../../../contribution-rules/)

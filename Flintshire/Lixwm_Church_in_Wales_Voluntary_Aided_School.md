@@ -45,4 +45,4 @@ title: Lixwm Church in Wales Voluntary Aided School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Flintshire/Lixwm_Church_in_Wales_Voluntary_Aided_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Flintshire/Lixwm_Church_in_Wales_Voluntary_Aided_School.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: St Christophers School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Wrexham/St_Christophers_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Wrexham/St_Christophers_School.md). See also [rules for contribution](../../../contribution-rules/)

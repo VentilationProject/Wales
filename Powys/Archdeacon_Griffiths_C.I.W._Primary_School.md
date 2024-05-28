@@ -45,4 +45,4 @@ title: Archdeacon Griffiths C.I.W. Primary School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Powys/Archdeacon_Griffiths_C.I.W._Primary_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Powys/Archdeacon_Griffiths_C.I.W._Primary_School.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: Ysgol Gynradd Bro Cernyw
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Conwy/Ysgol_Gynradd_Bro_Cernyw.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Conwy/Ysgol_Gynradd_Bro_Cernyw.md). See also [rules for contribution](../../../contribution-rules/)

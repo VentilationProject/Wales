@@ -45,4 +45,4 @@ title: Our Lady & St Michael's Rc
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Monmouthshire/Our_Lady_&_St_Michael's_Rc.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Monmouthshire/Our_Lady_&_St_Michael's_Rc.md). See also [rules for contribution](../../../contribution-rules/)

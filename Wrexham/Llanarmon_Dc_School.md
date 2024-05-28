@@ -45,4 +45,4 @@ title: Llanarmon Dc School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Wrexham/Llanarmon_Dc_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Wrexham/Llanarmon_Dc_School.md). See also [rules for contribution](../../../contribution-rules/)

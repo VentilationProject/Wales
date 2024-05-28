@@ -45,4 +45,4 @@ title: Ton Pentre Infants
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Rhondda_Cynon_Taf/Ton_Pentre_Infants.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Rhondda_Cynon_Taf/Ton_Pentre_Infants.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: Trallwng Infants School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Rhondda_Cynon_Taf/Trallwng_Infants_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Rhondda_Cynon_Taf/Trallwng_Infants_School.md). See also [rules for contribution](../../../contribution-rules/)

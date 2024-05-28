@@ -45,4 +45,4 @@ title: Ysgol Gymraeg Ifor Hael
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Newport/Ysgol_Gymraeg_Ifor_Hael.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Newport/Ysgol_Gymraeg_Ifor_Hael.md). See also [rules for contribution](../../../contribution-rules/)

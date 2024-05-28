@@ -45,4 +45,4 @@ title: Ysgol Tan-y-Fron
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Wrexham/Ysgol_Tan-y-Fron.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Wrexham/Ysgol_Tan-y-Fron.md). See also [rules for contribution](../../../contribution-rules/)

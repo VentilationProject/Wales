@@ -45,4 +45,4 @@ title: Ysgol Bryn Onnen
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Torfaen/Ysgol_Bryn_Onnen.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Torfaen/Ysgol_Bryn_Onnen.md). See also [rules for contribution](../../../contribution-rules/)

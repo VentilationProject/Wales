@@ -45,4 +45,4 @@ title: Graig-Y-Rhacca Primary And Nursery Community
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Caerphilly/Graig-Y-Rhacca_Primary_And_Nursery_Community.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Caerphilly/Graig-Y-Rhacca_Primary_And_Nursery_Community.md). See also [rules for contribution](../../../contribution-rules/)

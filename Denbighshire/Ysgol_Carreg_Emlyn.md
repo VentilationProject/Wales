@@ -45,4 +45,4 @@ title: Ysgol Carreg Emlyn
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Denbighshire/Ysgol_Carreg_Emlyn.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Denbighshire/Ysgol_Carreg_Emlyn.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: Ysgol Gyfun Gwent Is Coed
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Newport/Ysgol_Gyfun_Gwent_Is_Coed.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Newport/Ysgol_Gyfun_Gwent_Is_Coed.md). See also [rules for contribution](../../../contribution-rules/)

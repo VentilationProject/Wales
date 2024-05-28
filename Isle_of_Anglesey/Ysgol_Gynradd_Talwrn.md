@@ -45,4 +45,4 @@ title: Ysgol Gynradd Talwrn
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Isle_of_Anglesey/Ysgol_Gynradd_Talwrn.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Isle_of_Anglesey/Ysgol_Gynradd_Talwrn.md). See also [rules for contribution](../../../contribution-rules/)

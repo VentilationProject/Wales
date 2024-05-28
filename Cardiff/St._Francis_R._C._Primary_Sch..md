@@ -45,4 +45,4 @@ title: St. Francis R. C. Primary Sch.
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Cardiff/St._Francis_R._C._Primary_Sch..md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Cardiff/St._Francis_R._C._Primary_Sch..md). See also [rules for contribution](../../../contribution-rules/)

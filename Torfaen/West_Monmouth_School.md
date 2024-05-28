@@ -45,4 +45,4 @@ title: West Monmouth School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Torfaen/West_Monmouth_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Torfaen/West_Monmouth_School.md). See also [rules for contribution](../../../contribution-rules/)

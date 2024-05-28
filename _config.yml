@@ -10,7 +10,7 @@ future: true
 
 title : Welsh Schools Ventilation Progress
 
-production_url : https://VentilationProject.github.io/Wales/
+production_url : https://ventilate-schools.github.io/Wales/
 
 plugins:
   - jekyll-redirect-from

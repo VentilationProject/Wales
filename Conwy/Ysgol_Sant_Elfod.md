@@ -45,4 +45,4 @@ title: Ysgol Sant Elfod
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Conwy/Ysgol_Sant_Elfod.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Conwy/Ysgol_Sant_Elfod.md). See also [rules for contribution](../../../contribution-rules/)

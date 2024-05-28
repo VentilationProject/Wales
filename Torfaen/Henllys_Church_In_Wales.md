@@ -45,4 +45,4 @@ title: Henllys Church In Wales
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Torfaen/Henllys_Church_In_Wales.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Torfaen/Henllys_Church_In_Wales.md). See also [rules for contribution](../../../contribution-rules/)

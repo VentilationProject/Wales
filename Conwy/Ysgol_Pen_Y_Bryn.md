@@ -45,4 +45,4 @@ title: Ysgol Pen Y Bryn
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Conwy/Ysgol_Pen_Y_Bryn.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Conwy/Ysgol_Pen_Y_Bryn.md). See also [rules for contribution](../../../contribution-rules/)

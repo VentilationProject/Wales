@@ -45,4 +45,4 @@ title: Charles Williams Church in Wales Primary School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Newport/Charles_Williams_Church_in_Wales_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Newport/Charles_Williams_Church_in_Wales_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)

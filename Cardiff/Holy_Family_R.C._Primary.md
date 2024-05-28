@@ -45,4 +45,4 @@ title: Holy Family R.C. Primary
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Cardiff/Holy_Family_R.C._Primary.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Cardiff/Holy_Family_R.C._Primary.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: Ysgol Gyfun Gymraeg Bro Edern
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Cardiff/Ysgol_Gyfun_Gymraeg_Bro_Edern.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Cardiff/Ysgol_Gyfun_Gymraeg_Bro_Edern.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: Greenhill Special School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Cardiff/Greenhill_Special_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Cardiff/Greenhill_Special_School.md). See also [rules for contribution](../../../contribution-rules/)

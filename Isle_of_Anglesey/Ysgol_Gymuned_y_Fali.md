@@ -45,4 +45,4 @@ title: Ysgol Gymuned y Fali
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Isle_of_Anglesey/Ysgol_Gymuned_y_Fali.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Isle_of_Anglesey/Ysgol_Gymuned_y_Fali.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: Llanmartin Junior & Infants
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Newport/Llanmartin_Junior_&_Infants.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Newport/Llanmartin_Junior_&_Infants.md). See also [rules for contribution](../../../contribution-rules/)

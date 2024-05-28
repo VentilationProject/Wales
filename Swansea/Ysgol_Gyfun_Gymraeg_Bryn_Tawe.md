@@ -45,4 +45,4 @@ title: Ysgol Gyfun Gymraeg Bryn Tawe
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Swansea/Ysgol_Gyfun_Gymraeg_Bryn_Tawe.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Swansea/Ysgol_Gyfun_Gymraeg_Bryn_Tawe.md). See also [rules for contribution](../../../contribution-rules/)

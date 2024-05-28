@@ -45,4 +45,4 @@ title: Ysgol Gynradd Gymraeg Hamadryad
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Cardiff/Ysgol_Gynradd_Gymraeg_Hamadryad.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Cardiff/Ysgol_Gynradd_Gymraeg_Hamadryad.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: Ysgol Gymraeg Gilfach Fargod
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Caerphilly/Ysgol_Gymraeg_Gilfach_Fargod.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Caerphilly/Ysgol_Gymraeg_Gilfach_Fargod.md). See also [rules for contribution](../../../contribution-rules/)

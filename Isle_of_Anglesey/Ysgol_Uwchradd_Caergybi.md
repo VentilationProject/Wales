@@ -45,4 +45,4 @@ title: Ysgol Uwchradd Caergybi
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Isle_of_Anglesey/Ysgol_Uwchradd_Caergybi.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Isle_of_Anglesey/Ysgol_Uwchradd_Caergybi.md). See also [rules for contribution](../../../contribution-rules/)

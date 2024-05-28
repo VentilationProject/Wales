@@ -45,4 +45,4 @@ title: Ebbw Fawr Learning Community
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Blaenau_Gwent/Ebbw_Fawr_Learning_Community.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Blaenau_Gwent/Ebbw_Fawr_Learning_Community.md). See also [rules for contribution](../../../contribution-rules/)

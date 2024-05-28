@@ -45,4 +45,4 @@ title: Ysgol Ger Y Llan
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Pembrokeshire/Ysgol_Ger_Y_Llan.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Pembrokeshire/Ysgol_Ger_Y_Llan.md). See also [rules for contribution](../../../contribution-rules/)

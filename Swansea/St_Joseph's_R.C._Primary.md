@@ -45,4 +45,4 @@ title: St Joseph's R.C. Primary
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Swansea/St_Joseph's_R.C._Primary.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Swansea/St_Joseph's_R.C._Primary.md). See also [rules for contribution](../../../contribution-rules/)

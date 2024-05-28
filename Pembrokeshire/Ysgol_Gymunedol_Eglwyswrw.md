@@ -45,4 +45,4 @@ title: Ysgol Gymunedol Eglwyswrw
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Pembrokeshire/Ysgol_Gymunedol_Eglwyswrw.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Pembrokeshire/Ysgol_Gymunedol_Eglwyswrw.md). See also [rules for contribution](../../../contribution-rules/)

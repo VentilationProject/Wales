@@ -45,4 +45,4 @@ title: Ysgol Esgob Morgan C.I.W. Voluntary Controlled Primary School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Denbighshire/Ysgol_Esgob_Morgan_C.I.W._Voluntary_Controlled_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Denbighshire/Ysgol_Esgob_Morgan_C.I.W._Voluntary_Controlled_Primary_School.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: Bishop Of Llandaff Church In Wales High School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Cardiff/Bishop_Of_Llandaff_Church_In_Wales_High_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Cardiff/Bishop_Of_Llandaff_Church_In_Wales_High_School.md). See also [rules for contribution](../../../contribution-rules/)

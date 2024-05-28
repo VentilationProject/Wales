@@ -45,4 +45,4 @@ title: Y G G Gwaelod Y Garth
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Cardiff/Y_G_G_Gwaelod_Y_Garth.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Cardiff/Y_G_G_Gwaelod_Y_Garth.md). See also [rules for contribution](../../../contribution-rules/)

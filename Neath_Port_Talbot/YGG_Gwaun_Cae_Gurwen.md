@@ -45,4 +45,4 @@ title: YGG Gwaun Cae Gurwen
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Neath_Port_Talbot/YGG_Gwaun_Cae_Gurwen.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Neath_Port_Talbot/YGG_Gwaun_Cae_Gurwen.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: St Joseph's Catholic And Anglican High
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Wrexham/St_Joseph's_Catholic_And_Anglican_High.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Wrexham/St_Joseph's_Catholic_And_Anglican_High.md). See also [rules for contribution](../../../contribution-rules/)

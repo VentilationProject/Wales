@@ -45,4 +45,4 @@ title: Ysgol Gymraeg y Cwm
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Swansea/Ysgol_Gymraeg_y_Cwm.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Swansea/Ysgol_Gymraeg_y_Cwm.md). See also [rules for contribution](../../../contribution-rules/)

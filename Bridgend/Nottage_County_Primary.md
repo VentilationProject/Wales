@@ -45,4 +45,4 @@ title: Nottage County Primary
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Bridgend/Nottage_County_Primary.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Bridgend/Nottage_County_Primary.md). See also [rules for contribution](../../../contribution-rules/)

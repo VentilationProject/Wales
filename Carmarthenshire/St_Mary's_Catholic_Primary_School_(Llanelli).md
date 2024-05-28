@@ -45,4 +45,4 @@ title: St Mary's Catholic Primary School (Llanelli)
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Carmarthenshire/St_Mary's_Catholic_Primary_School_(Llanelli).md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Carmarthenshire/St_Mary's_Catholic_Primary_School_(Llanelli).md). See also [rules for contribution](../../../contribution-rules/)

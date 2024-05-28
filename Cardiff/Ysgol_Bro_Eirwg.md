@@ -45,4 +45,4 @@ title: Ysgol Bro Eirwg
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Cardiff/Ysgol_Bro_Eirwg.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Cardiff/Ysgol_Bro_Eirwg.md). See also [rules for contribution](../../../contribution-rules/)

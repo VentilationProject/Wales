@@ -45,4 +45,4 @@ title: Ysgol Gymunedol Syr John Rhys
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Ceredigion/Ysgol_Gymunedol_Syr_John_Rhys.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Ceredigion/Ysgol_Gymunedol_Syr_John_Rhys.md). See also [rules for contribution](../../../contribution-rules/)

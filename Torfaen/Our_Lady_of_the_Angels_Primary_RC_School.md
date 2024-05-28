@@ -45,4 +45,4 @@ title: Our Lady of the Angels Primary RC School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Torfaen/Our_Lady_of_the_Angels_Primary_RC_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Torfaen/Our_Lady_of_the_Angels_Primary_RC_School.md). See also [rules for contribution](../../../contribution-rules/)

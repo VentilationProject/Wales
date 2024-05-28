@@ -45,4 +45,4 @@ title: Ysgol Emrys Ap Iwan
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Conwy/Ysgol_Emrys_Ap_Iwan.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Conwy/Ysgol_Emrys_Ap_Iwan.md). See also [rules for contribution](../../../contribution-rules/)

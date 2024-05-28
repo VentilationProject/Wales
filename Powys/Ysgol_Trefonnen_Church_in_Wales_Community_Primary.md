@@ -45,4 +45,4 @@ title: Ysgol Trefonnen Church in Wales Community Primary
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Powys/Ysgol_Trefonnen_Church_in_Wales_Community_Primary.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Powys/Ysgol_Trefonnen_Church_in_Wales_Community_Primary.md). See also [rules for contribution](../../../contribution-rules/)

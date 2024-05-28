@@ -45,4 +45,4 @@ title: St Paul's Voluntary Aided
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Wrexham/St_Paul's_Voluntary_Aided.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Wrexham/St_Paul's_Voluntary_Aided.md). See also [rules for contribution](../../../contribution-rules/)

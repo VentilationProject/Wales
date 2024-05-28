@@ -45,4 +45,4 @@ title: Maes Yr Haul Broadlands
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Bridgend/Maes_Yr_Haul_Broadlands.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Bridgend/Maes_Yr_Haul_Broadlands.md). See also [rules for contribution](../../../contribution-rules/)

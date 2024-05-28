@@ -45,4 +45,4 @@ title: Ysgol Gynradd Garndolbenmaen
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Gwynedd/Ysgol_Gynradd_Garndolbenmaen.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Gwynedd/Ysgol_Gynradd_Garndolbenmaen.md). See also [rules for contribution](../../../contribution-rules/)

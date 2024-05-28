@@ -45,4 +45,4 @@ title: Ysgol Glan Y Mor
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Gwynedd/Ysgol_Glan_Y_Mor.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Gwynedd/Ysgol_Glan_Y_Mor.md). See also [rules for contribution](../../../contribution-rules/)

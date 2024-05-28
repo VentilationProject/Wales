@@ -45,4 +45,4 @@ title: Ysgol Yr Esgob C In W
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Flintshire/Ysgol_Yr_Esgob_C_In_W.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Flintshire/Ysgol_Yr_Esgob_C_In_W.md). See also [rules for contribution](../../../contribution-rules/)

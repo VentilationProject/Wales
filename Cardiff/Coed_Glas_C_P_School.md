@@ -45,4 +45,4 @@ title: Coed Glas C P School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Cardiff/Coed_Glas_C_P_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Cardiff/Coed_Glas_C_P_School.md). See also [rules for contribution](../../../contribution-rules/)

@@ -45,4 +45,4 @@ title: St. Mark's V. A. School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Pembrokeshire/St._Mark's_V._A._School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Pembrokeshire/St._Mark's_V._A._School.md). See also [rules for contribution](../../../contribution-rules/)

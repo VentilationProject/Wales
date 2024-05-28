@@ -45,4 +45,4 @@ title: Cilgerran Church In Wales VC School
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Pembrokeshire/Cilgerran_Church_In_Wales_VC_School.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Pembrokeshire/Cilgerran_Church_In_Wales_VC_School.md). See also [rules for contribution](../../../contribution-rules/)

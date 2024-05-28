@@ -45,4 +45,4 @@ title: Ysgol Llanhari
 
 
 
-[Edit this page](https://github.com/VentilationProject/Wales/edit/prif/./Rhondda_Cynon_Taf/Ysgol_Llanhari.md). See also [rules for contribution](../../../contribution-rules/)
+[Edit this page](https://github.com/ventilate-schools/Wales/edit/prif/./Rhondda_Cynon_Taf/Ysgol_Llanhari.md). See also [rules for contribution](../../../contribution-rules/)
