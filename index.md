@@ -53,6 +53,12 @@ Mitigating virus spread and supporting long-term occupant health and comfort](ht
 - [Cardiff](Cardiff/): 127 schools
 
 
+# DIY Air filter activism in Wales to date
+
+Dr Rhys Thomas and Marlo Davis show how to make the DIY Air filter (Corsi rosenthal box) that they have been helping Welsh schools with since 2021: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4uCRuO-Ayo?si=CgwN4mm4hKHQBUPv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Site ownership
 
 This site is edited by volunteers who're interested in accelerating the work to complete the adequate ventilation of Welsh schools. This effort was not commissioned by education authorities or government.
