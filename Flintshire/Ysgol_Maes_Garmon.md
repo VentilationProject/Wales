@@ -32,7 +32,7 @@ title: Ysgol Maes Garmon
 
 A 2023 FOI request: [Prevention of infectious diseases](https://www.whatdotheyknow.com/request/prevention_of_infectious_disease_2#incoming-2441265), surfaces
 
-* Not using CO2 monitors (goes against the 30,000 claim of Welsh government).
+* Not using CO2 monitors (goes against the 30,000 claim of Welsh government, see [here](../..)).
 * Ventilation rests on tactical window opening
 * No plans for air filters
 
