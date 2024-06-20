@@ -1,4 +1,4 @@
----
+                                        ---
 layout: page
 title: Ysgol Maes Garmon
 ---
@@ -22,25 +22,31 @@ title: Ysgol Maes Garmon
 
 **Students**: 574
 
-**Wikipedia URL**: TODO
+**Wikipedia URL**: <https://en.wikipedia.org/wiki/Ysgol_Maes_Garmon>
 
 **Estyn (Schools Inspectorate) URL**: [https://www.estyn.gov.wales/provider/6644018](https://www.estyn.gov.wales/provider/6644018)
 
-**School Website**: TODO
+**School Website**: <https://ysgolmaesgarmon.com/> (no mention of ventilation or Covid)
 
-**School's overall airborne virus protection grade (0-5)**: 0
+**School's overall airborne virus protection grade (0-5)**: 2
+
+A 2023 FOI request: [Prevention of infectious diseases](https://www.whatdotheyknow.com/request/prevention_of_infectious_disease_2#incoming-2441265), surfaces
+
+* Not using CO2 monitors (goes against the 30,000 claim of Welsh government).
+* Ventilation rests on tactical window opening
+* No plans for air filters
 
 **Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
 
-**School's policy on Ventilation**: TODO
+**School's policy on Ventilation**: Opening of windows as needed
 
-**School's Ventilation Work Completion**: TODO
+**School's Ventilation Work Completion**: No plans
 
-**School's Air-Purification**: TODO
+**School's Air-Purification**: No plans
 
-**School's CO2 monitoring to actively drive ventilation and filtration**: TODO
+**School's CO2 monitoring to actively drive ventilation and filtration**: No plans
 
-**School's Wikidata URL**: TODO
+**School's Wikidata URL**: <https://www.wikidata.org/wiki/Q8059750>
 
 
 
