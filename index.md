@@ -10,7 +10,24 @@ title: School in Wales and their ventilation status
 
 To lower the transmission of COVID-19 another airborne diseases in schools. [..](See the longer rationale that's pertient to all countries on the home page). For Wales, though, we have 1,460 schools with unknown ventilation and air filtration. We don't know what their policy is today, but all enacted the statistically less relevant "wipe surfaces" and wash hands advice that the WHO incorrectly gave the world at the start of the pandemic.
 
-As well as the reading materials linked to on the home page for why we should ventilate schools that have a global perspective, we have some UK centric reading materials, too:
+As well as the reading materials linked to on the home page for why we should ventilate schools that have a global perspective
+
+## Wales perspective ventilation facts:
+
+These from [a FOI request](https://www.whatdotheyknow.com/request/measures_taken_by_the_education/response/2515481/attach/html/5/5.TO%20JMEWL%2002086%2023.Ventilation%20Correspondance%20Response.pdf.html), with Alwyn Jones (Education Directorate) providing answers.
+
+## CO2 Monitors question
+
+Welsh government response: "During the Covid-19 Pandemic Welsh Government procured 
+and distributed over 30,000 Carbon Dioxide Monitors to assist in the management of 
+ventilation in teaching spaces across schools, colleges and universities." And a monitoring survey [an EdArXiv preprint](https://osf.io/preprints/edarxiv/gx8hc)."
+
+## Active management of ventilation in the school day question.
+
+Welsh government response was to link to [Covid infection risk control and improving ventilation
+Carbon dioxide monitors in education settings ](https://www.gov.wales/sites/default/files/publications/2021-10/carbon-dioxide-monitors-education-settings.pdf)
+
+## We have some UK centric reading materials, too:
 
 * UK's National Education Union on [ventilation in schools](https://neu.org.uk/advice/health-and-safety/workplace-conditions/ventilation-schools-and-colleges).
 * UK GOV [How schools are managing ventilation to prevent the spread of airborne viruses like Covid-19](https://educationhub.blog.gov.uk/2022/06/30/how-schools-are-managing-ventilation-to-prevent-the-spread-of-airborne-viruses-like-covid-19/).
