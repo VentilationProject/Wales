@@ -10,6 +10,11 @@ title: Schools in Powys
 
 {% include_relative grade.html %}
 
+[Partially succesful 2021 FOI request](https://www.whatdotheyknow.com/request/ventilation_in_schools_6#incoming-1863093) has surfaced:
+
+1. On CO2 monitors: "Powys County Council have not determined a requirement to install carbon dioxide meters due to poor ventilation."
+2. On ventilation status: "HSE guidance was provided to all Powys schools indicating the requirement to provide air changes within occupied spaces. This guidance was specific to ensuring windows were openable whilst rooms were in use."
+
 **Schools:**
 
 - [Abermule Primary School](Abermule_Primary_School): Nursery, Infants & Juniors
@@ -81,7 +86,7 @@ title: Schools in Powys
 - [Llansantffraid C In W School](Llansantffraid_C_In_W_School): Nursery, Infants & Juniors
 - [Archdeacon Griffiths C.I.W. Primary School](Archdeacon_Griffiths_C.I.W._Primary_School): Nursery, Infants & Juniors
 - [Priory Church In Wales School](Priory_Church_In_Wales_School): Nursery, Infants & Juniors
-- [St Mary`s R.C. (A) School](St_Mary`s_R.C._(A)_School): Nursery, Infants & Juniors
+- [St Mary's R.C. (A) School](St_Mary's_R.C._(A)_School): Nursery, Infants & Juniors
 - [Llangattock C.I.W. School](Llangattock_C.I.W._School): Nursery, Infants & Juniors
 - [Ysgol Cwm Banwy](Ysgol_Cwm_Banwy): Nursery, Infants & Juniors
 - [Llanidloes High School](Llanidloes_High_School): Secondary (ages 11-19)
