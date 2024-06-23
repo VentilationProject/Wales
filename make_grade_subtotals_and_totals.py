@@ -1,6 +1,5 @@
 import os
 import re
-import statistics
 from collections import defaultdict
 
 def extract_grades(file_path):
@@ -24,30 +23,51 @@ def write_html(file_path, frequencies, where):
             file.write(f'<li>Grade {grade}: {freq}</li>\n')
         file.write('</ul>\n')
 
+def calculate_frequencies(grades):
+    """Calculate the frequency of each grade."""
+    return {grade: grades.count(grade) for grade in set(grades)}
+
 def analyze_directory(base_path):
     """Analyze all markdown files in the directory tree starting from base_path."""
     grade_map = defaultdict(list)
-    total_grades = []
+    processed_files = set()
 
     # Walk through all files and directories within the base_path
     for root, dirs, files in os.walk(base_path):
+        # Skip the .git directory
+        dirs[:] = [d for d in dirs if d != '.git']
+
         local_grades = []
         for file in files:
             if file.endswith('.md'):
                 file_path = os.path.join(root, file)
-                grades = extract_grades(file_path)
-                local_grades.extend(grades)
-                grade_map[root].extend(grades)
-                total_grades.extend(grades)
+                if file_path not in processed_files:
+                    grades = extract_grades(file_path)
+                    local_grades.extend(grades)
+                    grade_map[root].extend(grades)
+                    processed_files.add(file_path)
 
         if local_grades:
-            freq = {grade: local_grades.count(grade) for grade in set(local_grades)}
-            write_html(os.path.join(root, 'grade.html'), freq, 'the educational area')
+            freq = calculate_frequencies(local_grades)
+            write_html(os.path.join(root, 'grade.html'), freq, os.path.basename(root))
 
-    # Aggregate statistics for the entire directory tree
+    # Aggregate statistics for parent directories
+    parent_grade_map = defaultdict(list)
+    for root, dirs, files in os.walk(base_path, topdown=False):
+        if root == base_path:
+            continue
+        parent_dir = os.path.dirname(root)
+        parent_grade_map[parent_dir].extend(grade_map[root])
+        freq = calculate_frequencies(parent_grade_map[parent_dir])
+        write_html(os.path.join(parent_dir, 'grade.html'), freq, os.path.basename(parent_dir))
+
+    # Aggregate statistics for the entire base_path
+    total_grades = []
+    for grades in grade_map.values():
+        total_grades.extend(grades)
     if total_grades:
-        total_freq = {grade: total_grades.count(grade) for grade in set(total_grades)}
-        write_html(os.path.join(base_path, 'grade.html'), total_freq, 'Wales')
+        total_freq = calculate_frequencies(total_grades)
+        write_html(os.path.join(base_path, 'grade.html'), total_freq, os.path.basename(base_path))
 
-# Run the analysis starting from the current directory
+# Run the analysis for the current working directory
 analyze_directory(os.getcwd())
